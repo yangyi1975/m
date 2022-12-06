@@ -211,17 +211,6 @@
        "quickSearch": 1,
       "filterable": 1
     },
-{
-            "key": "Hei1", 
-            "name": "石榴影视(爬虫)", 
-            "type": "3", 
-            "api": "csp_Dora", 
-            "searchable": "1", 
-            "quickSearch": "1", 
-            "filterable": "1", 
-            "jar":"http://121.17.168.197:8787/1205.jar;md5;7573E5DEE052B6B1661A0BC400F190CC",
-            "ext": "3bff500c8b1e06c052a1b0f1f7a62b45"
-        }, 
 {"key":"csp_Ysgc","name":"工厂影视（SP）","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Gitcafe1","name": "️小 纸 条2（云盘）","type": 3,
 	"api": "csp_Gitcafe",
