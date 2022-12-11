@@ -755,7 +755,35 @@
             "type": 3, 
             "url": "Web"
         }, 
-        {
+               {
+            "name": "Q1解析", 
+            "type": 1, 
+            "url": "https://parse.ikunfk.cc/parse/sign/7859e0a8dc5af097c2df1294786a3456?url=", 
+            "ext": {
+                "flag": [
+                    "qq", 
+                    "腾讯", 
+                    "qiyi", 
+                    "爱奇艺", 
+                    "奇艺", 
+                    "youku", 
+                    "优酷", 
+                    "sohu", 
+                    "搜狐", 
+                    "letv", 
+                    "乐视", 
+                    "mgtv", 
+                    "芒果", 
+                    "rx", 
+                    "ltnb", 
+                    "bilibili", 
+                    "1905", 
+                    "xigua"
+                ]
+            }
+        }, 
+ 
+ {
             "name": "酷享影视", 
             "type": 1, 
             "url": "http://pandown.pro/app/kxjx.php?url=", 
@@ -783,35 +811,7 @@
                 ]
             }
         }, 
-        {
-            "name": "左岸", 
-            "type": 1, 
-            "url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=", 
-            "ext": {
-                "flag": [
-                    "qq", 
-                    "腾讯", 
-                    "qiyi", 
-                    "爱奇艺", 
-                    "奇艺", 
-                    "youku", 
-                    "优酷", 
-                    "sohu", 
-                    "搜狐", 
-                    "letv", 
-                    "乐视", 
-                    "mgtv", 
-                    "芒果", 
-                    "CL4K", 
-                    "renrenmi", 
-                    "ltnb", 
-                    "bilibili", 
-                    "1905", 
-                    "xigua"
-                ]
-            }
-        }, 
-        {
+              {
             "name": "回响解析", 
             "type": 0, 
             "url": "https://jx.aidouer.net/?url=", 
@@ -899,11 +899,11 @@
 {"name": "91解析","url": "http://91fanli.top/m3u8/?url=",
      "ext":{"header":{"User-Agent": "Mozilla/5.0"}}
     },
-    {
+ 		{
 			"name": "肥猫解析1",
 			"type": 1,
 			"url": "http://rxjx.kuanjv.com/allm3u8.php?url="
-	},
+		},
 		{
 			"name": "肥猫解析2",
 			"type": 1,
@@ -920,7 +920,8 @@
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
 		}    
 	},
-{
+{"name":"主解析","type":1,"url":"https://k.json.icu/home/api?type=ys&uid=4274082&key=ajlrtuvwIJNOPQSX03&url="},
+ {
             "name": "分享者",
             "type": 1,
             "url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=",
@@ -1018,34 +1019,7 @@
             "type": 0, 
             "url": "http://jx.gbxy.net.cn/?url="
         }, 
-        {
-            "name": "Q1解析", 
-            "type": 1, 
-            "url": "https://parse.ikunfk.cc/parse/sign/7859e0a8dc5af097c2df1294786a3456?url=", 
-            "ext": {
-                "flag": [
-                    "qq", 
-                    "腾讯", 
-                    "qiyi", 
-                    "爱奇艺", 
-                    "奇艺", 
-                    "youku", 
-                    "优酷", 
-                    "sohu", 
-                    "搜狐", 
-                    "letv", 
-                    "乐视", 
-                    "mgtv", 
-                    "芒果", 
-                    "rx", 
-                    "ltnb", 
-                    "bilibili", 
-                    "1905", 
-                    "xigua"
-                ]
-            }
-        }, 
-        {
+       {
             "name": "rx2", 
             "type": 1, 
             "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
