@@ -190,7 +190,7 @@
         },
 {"key": "8dys","name":"叭度影视(js)","type":3,"api":"https://agit.ai/1452635819/h/raw/branch/master/lib/drpy.min.js","ext": "https://agit.ai/1452635819/h/raw/branch/master/lib/js/8dys.js"},
 {"key": "188k","name":"188k影视(js)","type":3,"api":"https://agit.ai/1452635819/h/raw/branch/master/lib/drpy.min.js","ext": "https://agit.ai/1452635819/h/raw/branch/master/lib/js/188kan.js"},
-{"key": "Lezhu_spider","name": "乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"jar":"http://121.17.168.197:8787/0131.jar;md5;4BD2275690262E2B338920201A674539", "searchable": 1},
+{"key":"drpy_js_乐猪TV","name":"乐猪TV[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/乐猪TV.js"},
 {"key":"sp_s2","name":"网盘┃小雅","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/Alist2.json"},
 {"key": "Gitcafe1","name": "️小 纸 条2（云盘）","type": 3,
 	"api": "csp_Gitcafe",
