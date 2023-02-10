@@ -40,16 +40,8 @@
       "quickSearch": 1,
       "filterable": 1
       },
-{
-		"key": "csp_新视觉",
-		"name": "新视觉",
-		"type": 3,
-		"api": "csp_Xinsj",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-	    "jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;8DE557BD46D2ADE09506A7E0EF2354E7"
-        },
+{"key": "dr_新视觉影视","name":"新视觉影视","type":3,"api":"https://notabug.org/wlcmc1972/test/raw/master/jar/drpy2.js","ext":"https://notabug.org/wlcmc1972/test/raw/master/js/新视觉影视.js"},
+{"key": "dr_KOK影院","name":"KOK影院","type":3,"api":"https://notabug.org/wlcmc1972/test/raw/master/jar/drpy2.js","ext":"https://notabug.org/wlcmc1972/test/raw/master/js/KOK影院.js"},
 {
       "key":"YQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,
             "jar":"http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961",
@@ -98,15 +90,15 @@
             "filterable": 1
         }, 
 {
-            "key": "AppTT", 
-            "name": "图图影视(爬虫)", 
-            "type": 3, 
-            "api": "csp_Dora", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 1, 
-            "jar":"http://121.17.168.197:8787/1205.jar;md5;7573E5DEE052B6B1661A0BC400F190CC",
-            "ext": "110c922de7d69804467fb83d3bb664b5"
+            "key": "csp_AppTT",
+            "name": "图图影视",
+            "type": 3,
+            "api": "csp_AppTT2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/0130.png;md5; DD68E669A6F840D98852C3A021EDBBF2",
+            "ext": "http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="
         },
 {"key":"js_qq","name":"小Q","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","searchable": 1, "quickSearch": 1, "filterable": 1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/腾云.js"},
 {
@@ -120,9 +112,6 @@
             "jar":"http://121.17.168.197:8787/1205.jar;md5;7573E5DEE052B6B1661A0BC400F190CC",
             "ext": "bdc1c75081e5e477189a463baa47e392"
         }, 
-{"key":"YQ_zt","name":"追剧兔","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
-"jar":"http://121.17.168.197:8787/0131.jar;md5;4BD2275690262E2B338920201A674539",
-"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/zhujutu.json"},
 {
 			"key": "91free",
 			"name": "91free",
@@ -196,17 +185,29 @@
 {"key":"drpy_js_69美剧","name":"69美剧[js]","type":3,"api":"https://agit.ai/raoyang100/mi/raw/branch/master/js/alljs.js","ext":"https://agit.ai/raoyang100/mi/raw/branch/master/js/69美剧.js"},
 {"key":"drpy_js_碟调影视","name":"碟调影视[js]","type":3,"api":"https://agit.ai/raoyang100/mi/raw/branch/master/js/alljs.js","ext":"https://agit.ai/raoyang100/mi/raw/branch/master/js/碟调影视.js"},
 {"key":"drpy_js_看BZ影视","name":"看BZ影视[js]","type":3,"api":"https://agit.ai/raoyang100/mi/raw/branch/master/js/alljs.js","ext":"https://agit.ai/raoyang100/mi/raw/branch/master/js/看BZ影视.js"},
-{"key":"sp_s2","name":"网盘┃小雅","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/Alist2.json"},
-{"key": "Gitcafe1","name": "️小 纸 条2（云盘）","type": 3,
-	"api": "csp_Gitcafe",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext":"http://我是.肥猫.love:63/token.php","jar":"http://121.17.168.197:8787/ali.jar;md5;2F4E0E60A6488E1255DDD242AD201681"
-		},
-{"key":"Yisou","name":"易    搜(仅搜索)","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我是.肥猫.love:63/token.php"},
-{"key":"Zhaozy","name":"找资源(仅搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://我是.肥猫.love:63/token.php"},
-{"key":"Upyunso","name":"云     搜(仅搜索)","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://我是.肥猫.love:63/token.php"},
+{
+            "key": "Gitcafe",
+            "name": "小纸条",
+            "type": "3",
+            "api": "csp_Paper",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "jar": "https://agit.ai/soniczx/tv/raw/branch/master/cc.jar;md5;59E72AACE81382DCCE86B9B73998AA7F",
+            "ext": "http://ali.饭太硬.ml/nn"
+        },
+{
+            "key": "UpYun",
+            "name": "Up搜",
+            "type": 3,
+            "api": "csp_UpYun",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "jar": "https://agit.ai/soniczx/tv/raw/branch/master/cc.jar;md5;59E72AACE81382DCCE86B9B73998AA7F",
+            "ext": "http://ali.饭太硬.ml/nn"
+        },
 {"key": "drpy_js_看片狂人","name": " 看片狂人","type": 3,"api": "https://www.notabug.org/keke9088/mzytvbox/raw/main/libs/drpy.min.js","ext": "https://www.notabug.org/keke9088/mzytvbox/raw/main/Js/看片狂人.js"},
 {
             "key": "csp_appysv2_amhys",
@@ -242,16 +243,6 @@
       "ext": "https://notabug.org/yangyi1975/mi/raw/master/xpath/6dtv.json"
     },
 {"key":"csp_xpath_hmtv","name":"花猫TV(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext": "https://notabug.org/yangyi1975/mi/raw/master/xpath/huamao.json"},
-   {
-      "key": "csp_xpath_lezhutv",
-      "name": "乐猪(XPath)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://notabug.org/yangyi1975/mi/raw/master/%E4%B9%90%E7%8C%AAtv.json"
-    },
 {"key":"xp_VB","name":"TVB影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/xBPQ/tvb.js"},
 {"key":"csp_QQ","name":"腾        讯","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"爱奇艺","name":"奇艺(SP)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,
