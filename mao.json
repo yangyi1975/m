@@ -1,7 +1,7 @@
 {
 //"spider":"http://121.17.168.197:8787/0131.jar;md5;4BD2275690262E2B338920201A674539",
-//"spider":"http://121.17.168.197:8787/q1205.jar;md5;57c5d7c4239d1a39a094a5edc49aaf81",
-"spider":"http://121.17.168.197:8787/0216.jar;md5;88E02A37223EE3AF3F9327DBEAA3175A",
+"spider":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/0216.jar;md5;88E02A37223EE3AF3F9327DBEAA3175A",
+//"spider":"http://121.17.168.197:8787/0216.jar;md5;88E02A37223EE3AF3F9327DBEAA3175A",
 "sites":[
     {
       "key": "csp_kuaikan",
