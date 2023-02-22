@@ -1,7 +1,7 @@
 {
 "storeHouse": [
 {"sourceName":"kuku仓库","sourceUrl":"https://notabug.org/kuzniez/kot/raw/master/py/update_yuan"},
-{"sourceName":"自1","sourceUrl":"http://121.17.168.197:8787/ku.json"},
+{"sourceName":"自1","sourceUrl":"https://agit.ai/raoyang100/mi/raw/branch/master/ku.json"},
 {"sourceName":"自用仓","sourceUrl": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/update_yuan.txt"},
 {"sourceName":"影视①仓","sourceUrl": "https://agit.ai/hu/hcr/raw/branch/master/99668.txt"},
 {"sourceName":"影视②仓","sourceUrl":"https://agit.ai/66666/mao/raw/commit/0ec2c15e9a1a0df2ae6c44b4d7d7a4083d6d6f77/00/xx/0update_yuan"},
