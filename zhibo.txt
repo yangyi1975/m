@@ -2210,28 +2210,21 @@ MTVBiggestPop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS0
 MTVBlockParty,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 宇宁《千里江山（大型纪录片《紫禁城》主题歌HD,https://vdse.bdstatic.com//688046e42c39cf6585106f945e2798e7.mov
 体育,#genre#
-EUROSPORT 2[1280*720],http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/9542
-EUROSPORT 1[1280*720],http://cineapp.org:8000/mag00:1A:79:6E:C6:A8/e48uCbOtLv/858
-Eurosport1 HD[1920*1080],http://213.172.73.171:8081/nimble_live/1176__Eurosport1_HD/playlist.m3u8
-Eurosport1[1024*576],http://cdn.iptv.monster/play/15/3BEFF8D2EECBBF5/mpegts
-Eurosport1 HD[1920*1080],http://cdn.iptv.monster/play/145/3BEFF8D2EECBBF5/mpegts
-Eurosport1 HD[1920*1080],http://cdnua06.hls.tv/476/hls/wei6saq934pz50bkxdugc2hfnj71lmot/217/stream.m3u8
-Eurosport1 HD[1920*1080],http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/217/stream.m3u8
-Eurosport1 HD[1920*1080],http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/217/stream.m3u8
-Eurosport2 HD[1920*1080],http://cdnua06.hls.tv/476/hls/wei6saq934pz50bkxdugc2hfnj71lmot/219/stream.m3u8
-Eurosport2 HD[1920*1080],http://cdnua06.hls.tv/476/hls/xvenc6phog3m7qlktfdsrw9b4a82iy1z/219/stream.m3u8
-Eurosport1[1024*576],http://cdnua06.hls.tv/476/hls/ic98vakdjzm2sqf1elhg67pwr0xbto34/216/stream.m3u8
-Eurosport1[1024*576],http://cdnua06.hls.tv/476/hls/cma6nrk9e8z7ygfsl5xtj3ohb014vpw2/216/stream.m3u8
-Eurosport1[1024*576],http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/216/stream.m3u8
-Eurosport2[1024*576],http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/218/stream.m3u8
-Eurosport1 HD[1280*720],http://152.228.154.144/stream/DKQ6M3GWVG1/176.m3u8
-Eurosport2 HD[1280*720],http://152.228.154.144/stream/DKQ6M3GWVG1/192.m3u8
-Eurosport1[1024*576],https://sc.id-tv.kz/Eurosport_1HD_34_35.m3u8
-Eurosport1[1024*576],https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
-TNTSPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-TNTSPORTS 3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-TNTSPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
+超级体育,https://live.v1.mk/api/bestv.php?id=qcsj8m/8000000
+新视觉,https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
+足球高清,https://live.v1.mk/api/bestv.php?id=zqpd8m/8000000
+魅力足球,https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
+魅力足球http://bytedance.live.cqccn.com/__cl/cg:live/__c/mlzqHD/__op/default/__f//index.m3u8
+魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+北京冬奥,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+央视台球,http://39.134.19.246:6610/yinhe/2/ch00000090990000001669/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+纬来体育,http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
+ELEVEN體育2台,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+智林體育,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
+CCTV5-高清,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+广东体育,http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
 河南卫视+武林风十八周年庆典+功夫盛典回放,http://111.62.156.15/tx.flv.huya.com/src/1711747086-1711747086-7351897753393299456-3423617628-10057-A-0-1.flv?wsSecret=e2439fa6cb8de38cb07c597d3f5a3684&wsTime=6283a69c&u=0&seqid=16527086367547690&ctype=tars_mp&txyp=o%3Acs6%3B&fs=bgct&t=102
 小溪的柔韧空间+妹子群殴时刻+女人的战争,http://111.62.156.15/tx.flv.huya.com/src/1099531627889-1099531627889-85899831251304448-2199063379234-10057-A-0-1.flv?wsSecret=7006c4b5065e8151f6b97427995d0a58&wsTime=6283a6af&u=0&seqid=16527086553225650&ctype=tars_mp&fs=bgct&t=102
 苏苏的小生活+大布罗曼决战摔角狂热！,http://111.62.156.15/tx.flv.huya.com/src/1099531627965-1099531627965-85900157668818944-2199063379386-10057-A-0-1.flv?wsSecret=ee45c9feb1adca4748ec8195f1713af8&wsTime=6283a6b1&u=0&seqid=16527086579479530&ctype=tars_mp&fs=bgct&t=102
