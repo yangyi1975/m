@@ -1,7 +1,7 @@
 {
 //"spider":"http://121.17.168.197:8787/0131.jar;md5;4BD2275690262E2B338920201A674539",
-"spider":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/0216.jar;md5;88E02A37223EE3AF3F9327DBEAA3175A",
-//"spider":"http://121.17.168.197:8787/0216.jar;md5;88E02A37223EE3AF3F9327DBEAA3175A",
+//"spider":"http://121.17.168.197:8787/q1205.jar;md5;57c5d7c4239d1a39a094a5edc49aaf81",
+"spider":"http://121.17.168.197:8787/0216.jar;md5;88E02A37223EE3AF3F9327DBEAA3175A",
 "sites":[
     {
       "key": "csp_kuaikan",
@@ -103,27 +103,9 @@
             "quickSearch": 1,
             "filterable": 1
         }, 
-{
-            "key": "csp_AppTT",
-            "name": "图图影视",
-            "type": 3,
-            "api": "csp_AppTT2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/0130.png;md5; DD68E669A6F840D98852C3A021EDBBF2",
-            "ext": "http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="
-        },
-{
-      "key": "csp_ZJMiao",
-      "name": "新视觉",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "jar":"http://121.17.168.197:8787/0131.jar;md5;4BD2275690262E2B338920201A674539",
-      "filterable": 1
-    },
+{"key":"AppTT","name":"图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
+{"key":"csp_Xinsj","name":"新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,
+"jar":"https://agit.ai/so/gao/raw/branch/master/jar/xo.txt;md5;d58398a4c77607947d9a6168409b44a2","ext":"https://www.6080dy2.com"},
 {
 	  "key":"YQ_jk",
 	  "name":"极客影视",
@@ -227,8 +209,10 @@
             "quickSearch": "1",
             "filterable": "1",
             "jar": "https://agit.ai/soniczx/tv/raw/branch/master/cc.jar;md5;59E72AACE81382DCCE86B9B73998AA7F",
-            "ext": "http://ali.饭太硬.ml/nn"
+            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
         },
+{"key":"YiSo","name":"易搜┃搜4K","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,
+"jar":"https://agit.ai/so/gao/raw/branch/master/jar/xo.txt;md5;d58398a4c77607947d9a6168409b44a2","ext":"http://ali.饭太硬.ml/token"},
 {
             "key": "UpYun",
             "name": "Up搜",
@@ -239,7 +223,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "jar": "https://agit.ai/soniczx/tv/raw/branch/master/cc.jar;md5;59E72AACE81382DCCE86B9B73998AA7F",
-            "ext": "http://ali.饭太硬.ml/nn"
+            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
         },
 {"key": "drpy_js_看片狂人","name": " 看片狂人","type": 3,"api": "https://www.notabug.org/keke9088/mzytvbox/raw/main/libs/drpy.min.js","ext": "https://www.notabug.org/keke9088/mzytvbox/raw/main/Js/看片狂人.js"},
 {
