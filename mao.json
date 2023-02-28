@@ -12,15 +12,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-{
-      "key": "csp_77",
-      "name": "77(SP)",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+{"key":"csp_Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/59542/1007.jar?sign=bkJykVTD6QDtfBpTDWQxnRyan-vn9IcpkUxZDIcnwXU%3D%3A0"},
 {"key":"csp_Bttoo" ,"name":"两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"jar":"http://121.17.168.197:8787/q1205.jar;md5;57c5d7c4239d1a39a094a5edc49aaf81","quickSearch": 1, 
 "filterable": 1},
  {
@@ -44,7 +36,7 @@
 {"key": "dr_KOK影院","name":"KOK影院","type":3,"api":"https://agit.ai/raoyang100/mi/raw/branch/master/js/alljs.js","ext":"https://agit.ai/raoyang100/mi/raw/branch/master/js/kok.js"},
 {
       "key":"YQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,
-            "jar":"http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961",
+            "jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/xo0227.jar;md5;eb433f3b00e991e6ba6509cffc99672c",
            "ext":"https://api-tx.shumaxc.xyz"
         }, 
 {
@@ -106,6 +98,7 @@
 {"key":"AppTT","name":"图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 {"key":"csp_Xinsj","name":"新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,
 "jar":"https://agit.ai/so/gao/raw/branch/master/jar/xo.txt;md5;d58398a4c77607947d9a6168409b44a2","ext":"https://www.6080dy2.com"},
+{"key":"csp_fantuan","name":"饭团(SP)","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 {
 	  "key":"YQ_jk",
 	  "name":"极客影视",
@@ -116,6 +109,7 @@
 	  "filterable":1,
 	  "ext":"https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/jike.json"
 	},
+{"key":"csp_xpath_工人" ,"name":"‍工人影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/65012833/Json/raw/branch/master/gwys.json"},
 {"key":"js_qq","name":"小Q","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","searchable": 1, "quickSearch": 1, "filterable": 1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/腾云.js"},
 {
             "key": "Tian1", 
@@ -200,22 +194,11 @@
 {"key":"drpy_js_69美剧","name":"69美剧[js]","type":3,"api":"https://agit.ai/raoyang100/mi/raw/branch/master/js/alljs.js","ext":"https://agit.ai/raoyang100/mi/raw/branch/master/js/69美剧.js"},
 {"key":"drpy_js_碟调影视","name":"碟调影视[js]","type":3,"api":"https://agit.ai/raoyang100/mi/raw/branch/master/js/alljs.js","ext":"https://agit.ai/raoyang100/mi/raw/branch/master/js/碟调影视.js"},
 {"key":"drpy_js_看BZ影视","name":"看BZ影视[js]","type":3,"api":"https://agit.ai/raoyang100/mi/raw/branch/master/js/alljs.js","ext":"https://agit.ai/raoyang100/mi/raw/branch/master/js/看BZ影视.js"},
-{
-            "key": "Gitcafe",
-            "name": "小纸条",
-            "type": "3",
-            "api": "csp_Paper",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "jar": "https://agit.ai/soniczx/tv/raw/branch/master/cc.jar;md5;59E72AACE81382DCCE86B9B73998AA7F",
-            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
-        },
-{"key":"YiSo","name":"易搜┃搜4K","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,
-"jar":"https://agit.ai/so/gao/raw/branch/master/jar/xo.txt;md5;d58398a4c77607947d9a6168409b44a2","ext":"http://ali.饭太硬.ml/token"},
+{"key":"YiSo","name":"易搜(扫码)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,
+"jar":"https://agit.ai/yumore/gao/raw/branch/master/jar/xo.txt;md5;eb433f3b00e991e6ba6509cffc99672c","ext":"http://ali.饭太硬.ml/token"},
 {
             "key": "UpYun",
-            "name": "Up搜",
+            "name": "Up搜(原画)",
             "type": 3,
             "api": "csp_UpYun",
             "playerType": 1,
@@ -323,6 +306,9 @@
 {"key": "drpy真不卡","name":"真不卡(js)","type":3,"api":"https://notabug.org/yangyi1975/t/raw/main/drpy.js",
  "ext": "https://notabug.org/yangyi1975/t/raw/main/dr/zbk.js"
 },
+{"key": "csp_xpath_lenxitv","name": "冷曦影视","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/65012833/Json/raw/branch/master/lenxi.json"},
+{"key":"U酷资源","name":"U酷资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"樱花资源","name":"樱花资源","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 { "key": "速优影视",
       "name": "速优影视",
       "type": 1,
@@ -413,7 +399,7 @@
         },
     {
       "key": "push_agent",
-      "name": "推送(非阿里)",
+      "name": "推送",
       "type": 3,
       "api": "csp_PushAgent",
       "searchable": 1,
