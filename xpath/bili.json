@@ -1,6 +1,42 @@
 {
   "classes": [
     {
+      "type_name": "儿童",
+      "type_id": "儿童"
+    },
+    {
+"type_name":"说案",
+"type_id":"说案"
+},
+{
+"type_name":"解说",
+"type_id":"解说"
+},
+{
+      "type_name": "太极拳",
+      "type_id": "太极拳"
+    },
+    {
+      "type_name": "电影",
+      "type_id": "电影"
+         },
+          {
+      "type_name": "电视剧",
+      "type_id": "电视剧"
+         },
+         {
+      "type_name": "平面设计教学",
+      "type_id": "平面设计教学"
+    },
+         {
+      "type_name": "软件教程",
+      "type_id": "软件教程"
+    },
+         {
+      "type_name": "Windows",
+      "type_id": "Windows"
+    },
+    {
       "type_name": "搞笑",
       "type_id": "鬼畜搞笑"
     },
