@@ -33,11 +33,9 @@
             "searchable": 1,
             "quickSearch": 1
         },
-{"key":"Lgyy","name":"蓝光","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1",
-"jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/ss.jar;md5;ce1f5c25edfd364ed1312933f61a70f4","filterable":"1","ext":"b2e573ff040fcd54b50475660ee1a7d1"},
-{"key":"AppTT","name":"图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1",
-"jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/ss.jar;md5;ce1f5c25edfd364ed1312933f61a70f4","ext":"110c922de7d69804467fb83d3bb664b5"},
- {"key":"YiSo","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,
+{"key": "极速资源gs","name": "极速资源gs","type": 1,"api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/?ac=list","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": [ "动作片", "爱情片", "科幻片", "战争片", "剧情片", "恐怖片", "喜剧片", "大陆剧", "港澳剧", "台湾剧", "欧美剧", "动漫电影", "韩剧", "日剧", "泰剧"]},
+{"key": "极速资源xl","name": "极速资源xl","type": 1,"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","大陆剧","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]},
+{"key":"YiSo","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,
 "jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/ali.jar","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
 {
             "key": "UpYun",
