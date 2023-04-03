@@ -3,8 +3,6 @@
 //"spider":"http://121.17.168.197:8787/0306.jar",
 //"spider":"http://121.17.168.197:8787/0216.jar;md5;88E02A37223EE3AF3F9327DBEAA3175A",
 "sites":[
-{"key":"csp_SixV","name":"6V电影网(不能搜,可做首页)","type":3,"api":"csp_SixV","searchable":0,"filterable":0},
-
  {
       "key": "csp_kuaikan",
       "name": "快看(爬虫)",
