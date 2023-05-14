@@ -380,49 +380,6 @@
 {"name":"自动解析01","url": "http://lanlan.ckflv.cn/?url=","type":1},
 {"name":"3号","type":1,"url":"http://49.235.75.85:417/api/?key=RMFF6J3fjyRNkHnMO1&url="},
 {"name":"4号","type":1,"url":"http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}}
-{
-            "name": "星辰云解析",
-            "type": 1,
-            "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "企鹅",
-                    "IQiYi",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "YouKu",
-                    "优酷",
-                    "sohu",
-                    "SoHu",
-                    "搜狐",
-                    "letv",
-                    "LeShi",
-                    "乐视",
-                    "imgo",
-                    "mgtv",
-                    "MangGuo",
-                    "芒果",
-                    "SLYS4k",
-                    "BYGA",
-                    "luanzi",
-                    "AliS",
-                    "dxzy",
-                    "bilibili",
-                    "QEYSS",
-                    "xigua",
-                    "西瓜视频",
-                    "腾讯视频",
-                    "奇艺视频",
-                    "优酷视频",
-                    "芒果视频",
-                    "乐视视频"
-                    
-                ]
-            }
         
     ], 
     "rules": [
