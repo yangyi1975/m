@@ -1,8 +1,16 @@
 {
-	//"spider":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/0322.jar;md5;737DF5DD5B53E37EC7E8719A7E47C88A",
-	"spider": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/0508.jar",
+	//"spider":"http://121.17.168.197:8787/0322.jar;md5;737DF5DD5B53E37EC7E8719A7E47C88A",
+	"spider": "http://121.17.168.197:8787/0508.jar;md5;C8A8F8CC8FDD30EB58F1BC5EE21DCCB3",
 	//"spider":"http://121.17.168.197:8787/0216.jar;md5;88E02A37223EE3AF3F9327DBEAA3175A",
-	"sites": [
+	"sites": [{
+			"key": "csp_SixV",
+			"name": "6V电影网(不能搜,可做首页)",
+			"type": 3,
+			"api": "csp_SixV",
+			"searchable": 0,
+			"jar": "http://121.17.168.197:8787/0322.jar;md5;737DF5DD5B53E37EC7E8719A7E47C88A",
+			"filterable": 0
+		},
 		{
 			"key": "csp_kuaikan",
 			"name": "快看(爬虫)",
@@ -39,7 +47,7 @@
 			"m3u8ads": "hd.youyhn.com",
 			"searchable": 1,
 			"quickSearch": 1,
-			"jar": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/0322.jar;md5;737DF5DD5B53E37EC7E8719A7E47C88A",
+			"jar": "http://121.17.168.197:8787/0322.jar;md5;737DF5DD5B53E37EC7E8719A7E47C88A",
 			"filterable": 1
 		},
 		{
@@ -79,7 +87,7 @@
 			"playerType": 2,
 			"quickSearch": 1,
 			"filterable": 0,
-			"jar": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/0322.jar;md5;737DF5DD5B53E37EC7E8719A7E47C88A",
+			"jar": "http://121.17.168.197:8787/0322.jar;md5;737DF5DD5B53E37EC7E8719A7E47C88A",
 			"ext": "http://47.104.99.175"
 		},
 		{
@@ -101,7 +109,7 @@
 			"m3u8ads": "hd.youyhn.com",
 			"searchable": 1,
 			"quickSearch": 1,
-			"jar": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/0322.jar;md5;737DF5DD5B53E37EC7E8719A7E47C88A",
+			"jar": "http://121.17.168.197:8787/0322.jar;md5;737DF5DD5B53E37EC7E8719A7E47C88A",
 			"filterable": 1,
 			"ext": "78d057e4d03e47cb62dce13d69b41d6f"
 		},
@@ -153,7 +161,7 @@
 			"type": 3,
 			"filterable": 1,
 			"playerType": 2,
-			"jar": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/0322.jar;md5;737DF5DD5B53E37EC7E8719A7E47C88A",
+			"jar": "http://121.17.168.197:8787/0322.jar;md5;737DF5DD5B53E37EC7E8719A7E47C88A",
 			"quickSearch": 1,
 			"searchable": 1,
 			"ext": "https://api-aws.11ty.top"
@@ -369,7 +377,7 @@
 				"searchable": 1,
 				"quickSearch": 1,
 				"filterable": 1,
-				"jar": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/0322.jar;md5;737DF5DD5B53E37EC7E8719A7E47C88A",
+				"jar": "http://121.17.168.197:8787/0322.jar;md5;737DF5DD5B53E37EC7E8719A7E47C88A",
 				"ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/qiyou.json"
 			},
 			{
@@ -379,7 +387,7 @@
 				"api": "csp_QQ",
 				"searchable": 1,
 				"quickSearch": 1,
-				"jar": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/0322.jar;md5;737DF5DD5B53E37EC7E8719A7E47C88A",
+				"jar": "http://121.17.168.197:8787/0322.jar;md5;737DF5DD5B53E37EC7E8719A7E47C88A",
 				"filterable": 1
 			},
 			{
@@ -1065,7 +1073,23 @@
 				}
 			}
 		],
-		"rules": [
+		"rules": [{
+				"name": "量子",
+				"hosts": ["vip.lz", "hd.lz"],
+				"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]
+			}, {
+				"name": "非凡",
+				"hosts": ["vip.ffzy", "hd.ffzy"],
+				"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]
+			}, {
+				"name": "火山嗅探",
+				"hosts": ["huoshan.com"],
+				"regex": ["item_id="]
+			}, {
+				"name": "抖音嗅探",
+				"hosts": ["douyin.com"],
+				"regex": ["is_play_url="]
+			},
 			{
 				"host": "*",
 				"rule": [
