@@ -12,7 +12,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-{"key":"csp_Kunyu77","name":"七七(爬虫)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/so/gao/raw/branch/master/jar/fan.txt;md5;c7a548f950e99c50a3465918f2aab475"},
+{"key":"csp_Kunyu77","name":"七七(爬虫)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://121.17.168.197:8787/0531.jar;md5;8345D3552E5E3238EFE3044031C7DA70"},
  {"key":"csp_Auete","name":"奥特(爬虫)","type": 3,"api":"csp_Auete","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {
             "key": "LiteApple",
