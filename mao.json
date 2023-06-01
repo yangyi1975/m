@@ -1,6 +1,6 @@
 {
-	//"spider":"http://121.17.168.197:8787/0322.jar;md5;737DF5DD5B53E37EC7E8719A7E47C88A",
-	"spider": "http://121.17.168.197:8787/0508.jar;md5;C8A8F8CC8FDD30EB58F1BC5EE21DCCB3",
+	"spider":"http://121.17.168.197:8787/0601.jar;md5;07099EA7D907106BE7990AD9DB491F2A",
+	//"spider": "http://121.17.168.197:8787/0508.jar;md5;C8A8F8CC8FDD30EB58F1BC5EE21DCCB3",
 	//"spider":"http://121.17.168.197:8787/0531.jar;md5;8345D3552E5E3238EFE3044031C7DA70",
 	"sites": [{
 			"key": "csp_SixV",
@@ -27,9 +27,7 @@
 			"api": "csp_Kunyu77",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "http://121.17.168.197:8787/0531.jar;md5;8345D3552E5E3238EFE3044031C7DA70"
-		},
+			"filterable": 1		},
 		{
 			"key": "csp_CZSPP",
 			"name": "厂长(SP)",
@@ -77,18 +75,7 @@
 "jar": "http://121.17.168.197:8787/0531.jar;md5;8345D3552E5E3238EFE3044031C7DA70",
 "ext":"SldZWXFaWkhXTU1sTlpadFNSSyN0elRJdzlMQVJSQ00=$$$Q1ppbkoxUzdvNnNZbU1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 		{"key":"新视觉","name":"新视觉","type":3,"api":"https://agit.ai/raoyang100/mi/raw/branch/master/js/alljs.js","ext":"https://agit.ai/raoyang100/mi/raw/branch/master/js/xinshijue.json"},
-		{
-			"key": "csp_Lib_TS",
-			"name": "Libvio(SP)",
-			"type": 3,
-			"api": "csp_Dora",
-			"m3u8ads": "hd.youyhn.com",
-			"searchable": 1,
-			"quickSearch": 1,
-			"jar": "http://121.17.168.197:8787/0322.jar;md5;737DF5DD5B53E37EC7E8719A7E47C88A",
-			"filterable": 1,
-			"ext": "78d057e4d03e47cb62dce13d69b41d6f"
-		},
+		{"key":"csp_Lib","name":"Lib","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc/"},
 		{
 			"key": "Sp_低端",
 			"name": "低端",
@@ -259,16 +246,7 @@
 				"api": "https://notabug.org/yunbox2/pkl/raw/master/libs/drpy2.min.js",
 				"ext": "https://notabug.org/yunbox2/pkl/raw/master/js/网易公版影像.js"
 			},
-			{
-				"key": "csp_SP360",
-				"name": "360(SP)",
-				"type": 3,
-				"api": "csp_SP360",
-				"searchable": 1,
-				"quickSearch": 1,
-				"jar": "http://121.17.168.197:8787/0216.jar;md5;88E02A37223EE3AF3F9327DBEAA3175A",
-				"filterable": 1
-			},
+			{"key":"360","name":"360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 			{
 				"key": "量子资源",
 				"name": "量子资源",
