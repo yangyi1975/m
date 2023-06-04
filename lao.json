@@ -26,7 +26,7 @@
 {"key":"csp_Bttwoo","name":"2BT((爬虫))","type":3,"api":"csp_Bttwoo","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppMr","name":"明日影视(爬虫)","type":3,"api":"csp_AppMr","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"如意","name":"如意","type":3,"api":"csp_AppYsV2","ext":"http://cms.maoyingshi.cc/api.php/app/"},
-{"key":"酷影","name":"酷影","type":3,"api":"csp_AppYsV2","ext":"http://ys.realdou.cn:8652/api.php/app/"},  
+{"key":"酷影","name":"酷影","type":3,"api":"csp_AppYsV2","ext":"http://cms.wbsys.top:9835/api.php/app/"},  
 {"key":"多米","name":"多米","type":3,"api":"csp_AppYsV2","ext":"http://vod.dmdh.top:5680/api.php/app/"},
 {"key":"爱迪","name":"爱迪","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 {"key":"飞云","name":"飞云","type":3,"api": "csp_AppYsV2","ext":"http://hdvod.top/ruifenglb_api.php/v1.vod"},
