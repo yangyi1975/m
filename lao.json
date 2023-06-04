@@ -1,7 +1,7 @@
 {
-"spider":"http://121.17.168.197:8787/0322.jar;md5;737DF5DD5B53E37EC7E8719A7E47C88A",
-//"spider":"http://121.17.168.197:8787/0306.jar",
-//"spider":"http://121.17.168.197:8787/0216.jar;md5;88E02A37223EE3AF3F9327DBEAA3175A",
+//"spider":"http://121.17.168.197:8787/0601.jar;md5;07099EA7D907106BE7990AD9DB491F2A",
+	"spider": "http://121.17.168.197:8787/0604.jar;md5;9FCC2ED12545BCB180D1BBDBBF620102",
+	//"spider":"http://121.17.168.197:8787/0531.jar;md5;8345D3552E5E3238EFE3044031C7DA70",
 "sites":[
  {
       "key": "csp_kuaikan",
@@ -318,6 +318,23 @@
         }
     ], 
     "rules": [
+        {
+				"name": "量子",
+				"hosts": ["vip.lz", "hd.lz"],
+				"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]
+			}, {
+				"name": "非凡",
+				"hosts": ["vip.ffzy", "hd.ffzy"],
+				"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]
+			}, {
+				"name": "火山嗅探",
+				"hosts": ["huoshan.com"],
+				"regex": ["item_id="]
+			}, {
+				"name": "抖音嗅探",
+				"hosts": ["douyin.com"],
+				"regex": ["is_play_url="]
+			},
         {
             "host": "*", 
             "rule": [
