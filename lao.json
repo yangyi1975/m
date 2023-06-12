@@ -25,11 +25,69 @@
         }, 
 {"key":"csp_Bttwoo","name":"2BT((爬虫))","type":3,"api":"csp_Bttwoo","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppMr","name":"明日影视(爬虫)","type":3,"api":"csp_AppMr","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
+{
+            "key": "影探4K",
+            "name": "影探4K",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.lfytyl.com/api.php/app/"
+        },
+{
+            "key": "csp_LuoYe",
+            "name": "落叶",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://xn--yeta099v.online:66/api.php/app/"
+        },
+{
+            "key": "yaya",
+            "name": "yaya",
+            "api": "csp_AppYsV2",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
+        },
+{
+            "key": "csp_DongFang",
+            "name": "东方",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.dfspapp.com/api.php/app/"
+        },
+{
+            "key": "csp_MiNiku",
+            "name": "迷你",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.miniku.cc/xgapp.php/v1/"
+        },
 {"key":"如意","name":"如意","type":3,"api":"csp_AppYsV2","ext":"http://cms.maoyingshi.cc/api.php/app/"},
 {"key":"酷影","name":"酷影","type":3,"api":"csp_AppYsV2","ext":"http://cms.wbsys.top:9835/api.php/app/"},  
-{"key":"多米","name":"多米","type":3,"api":"csp_AppYsV2","ext":"http://vod.dmdh.top:5680/api.php/app/"},
+ {
+            "key": "csp_DuoMi",
+            "name": "多米",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://v.dmdh.top/api.php/app/"
+        },
 {"key":"爱迪","name":"爱迪","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
-{"key":"飞云","name":"飞云","type":3,"api": "csp_AppYsV2","ext":"http://hdvod.top/ruifenglb_api.php/v1.vod"},
 {"key":"快看资源","name":"快看资源","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/"},
 {
             "key": "量子资源",
