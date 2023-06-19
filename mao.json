@@ -152,7 +152,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://www.lfytyl.com/api.php/app/"
+            "ext": "http://get.lfytyl.com/api.php/app/"
         },
 {
             "key": "csp_LuoYe",
