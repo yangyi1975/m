@@ -1,7 +1,7 @@
 {
-	"spider":"http://121.17.168.197:8787/0623.jar;md5;AA78BA556383BD1ADBAD7745478EA5AA",
+	//"spider":"http://121.17.168.197:8787/0623.jar;md5;AA78BA556383BD1ADBAD7745478EA5AA",
 	//"spider": "http://121.17.168.197:8787/0604.jar;md5;9FCC2ED12545BCB180D1BBDBBF620102",
-	//"spider":"http://121.17.168.197:8787/0531.jar;md5;8345D3552E5E3238EFE3044031C7DA70",
+	"spider":"http://121.17.168.197:8787/0628.jar;md5;6FB0A205B857F35E165A5F8CB2F8056D",
 	"sites": [
 {
 				"key": "优质资源",
@@ -11,18 +11,9 @@
 				"searchable": 1,
 				"quickSearch": 1,
 				"categories": ["国产剧", "韩国剧", "香港剧", "台湾剧", "欧美剧", "动作片", "科幻片", "战争片", "奇幻片", "喜剧片", "爱情片", "恐怖片",
-					"犯罪片", "悬疑片", "惊悚片", "剧情片", "冒险片", "记录片", "综艺", "动漫"
+					"犯罪片", "悬疑片", "惊悚片", "剧情片", "冒险片", "记录片",  "动漫",
 				]
 			},
-{
-			"key": "csp_SixV",
-			"name": "6V电影网(不能搜,可做首页)",
-			"type": 3,
-			"api": "csp_SixV",
-			"searchable": 0,
-			"jar": "http://121.17.168.197:8787/0322.jar;md5;737DF5DD5B53E37EC7E8719A7E47C88A",
-			"filterable": 0
-		},
 		{
 			"key": "csp_kuaikan",
 			"name": "快看(爬虫)",
@@ -74,7 +65,8 @@
 			"filterable": 1,
 			"ext": ""
 		},
-		{"key":"csp_Lib","name":"Lib","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc/"},
+{"key":"csp_Lib","name":"LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.fun/"},
+		{"key":"csp_Dy1010","name":"双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 		{
 			"key": "csp_Auete",
 			"name": "奥特(爬虫)",
@@ -121,16 +113,7 @@
 		},
 {"key": "csp_DuoX","name": "多线","type": 3,"api": "csp_DuoX","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"北极狐", "name": "北极狐", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType": "2", "ext": "https://www.kuin.one/api.php/app/"},
-{
-            "key": "影探4K",
-            "name": "影探4K",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://get.lfytyl.com/api.php/app/"
-        },
+{"key":"影探","name":"影探","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1},
 {
             "key": "yaya",
             "name": "yaya",
@@ -161,6 +144,45 @@
             "filterable": 1,
             "ext": "http://www.miniku.cc/xgapp.php/v1/"
         },
+{
+			"key": "cjzy_快看",
+			"name": "快看影视",
+			"type": 1,
+			"api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"categories": [
+				"国产剧",
+				"港台剧",
+				"国产动漫",
+				"日韩剧",
+				"欧美剧",
+				"海外剧",
+				"动作片",
+				"爱情片",
+				"剧情片",
+				"科幻片",
+				"奇幻片",
+				"战争片",
+				"犯罪片",
+				"恐怖片",
+				"悬疑片",
+				"惊悚片",
+				"冒险片"
+			]
+		},
+{
+"key": "app_轻简",
+"name": "轻简",
+"type": 1,
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/"
+},
+{"key":"酷影","name":"酷影","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
 {"key":"如意","name":"如意","type":3,"api":"csp_AppYsV2","ext":"http://cms.maoyingshi.cc/api.php/app/"},
 {"key":"迷你库","name":"迷你库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 {"key":"策驰影院","name":"策驰影院(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/cechi.json"},
