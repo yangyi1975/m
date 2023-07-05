@@ -4,7 +4,16 @@
 	"spider":"http://121.17.168.197:8787/0628.jar;md5;6FB0A205B857F35E165A5F8CB2F8056D",
 	"sites": [
 {
-				"key": "优质资源",
+			"key": "csp_CZSPP",
+			"name": "厂长(SP)",
+			"type": 3,
+			"api": "csp_Czsapp",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+{
+				"key": "优质",
 				"name": "优质资源(切)",
 				"type": 1,
 				"api": "https://api.1080zyku.com/inc/apijson.php/provide/vod/",
@@ -32,16 +41,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1		},
-		{
-			"key": "csp_CZSPP",
-			"name": "厂长(SP)",
-			"type": 3,
-			"api": "csp_Czsapp",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-{"key":"在线","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,
+		{"key":"在线","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,
 "jar": "http://121.17.168.197:8787/0531.jar;md5;8345D3552E5E3238EFE3044031C7DA70","ext":"https://www.zxzj.pro/"},
 		{
 			"key": "csp_3EDY",
