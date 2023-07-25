@@ -153,7 +153,14 @@
 {
       "key": "csp_appys_影探",
       "name": "影探",
-      "type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lfytyl.com/api.php/app/"},
+      "type": 3,
+      "playerType": "1",
+      "api": "csp_YT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/fan724.jar"
+    },
 {
             "key": "yaya",
             "name": "yaya",
@@ -224,6 +231,29 @@
 			"ext": "https://sk100.tv/api.php/app/"
 		},
 {
+      "key": "BOF资源",
+      "name": "暴风资源(采集)",
+      "type": 1,
+      "api": "http://by.bfzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "纪录片"
+      ]
+    },
+{
       "key": "csp_mengdandan_api",      "name": "萌蛋蛋",
       "type": 3,      "api": "csp_AppYsV2",
       "searchable": 1,      "quickSearch": 1,
@@ -259,6 +289,50 @@
 			]
 		},
 {
+			"key": "可",
+			"name": "西瓜",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
+		},
+{
+			"key": "apv2_air",
+			"name": "空气",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"ext": "https://www.airfun.fun/xgapp.php/v2/"
+		},
+ {
+            "key" : "js_豆豆",
+            "name" : "豆豆",
+            "type" : 3,
+            "api" : "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
+            "ext" : "https://notabug.org/ygfxz/6/raw/main/js/js/豆豆[V2].js"
+        },
+{"key": "豌豆荚", "name": "豌豆", "type": 1, "api": "https://ks.wandouzy.cc/api.php/provide/vod/",
+"categories": ["国产剧","欧美剧", "泰国剧", "港台剧", "海外剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "动作", 
+"喜剧", "科幻", "悬疑", "古装", "灾难", "犯罪", "冒险", "奇幻", "惊悚", "历史", "记录", "恐怖", "动画", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫",  "足球", "篮球", "MV", "解说", "短片"]},
+{
+            "key": "北川", 
+            "name": "北川", 
+            "type": 3, 
+            "api": "csp_XBPQ", 
+            "ext": "https://download.kstore.space/download/4127/js/JB.json"},
+{ "key": "狐狸", "name": "狐狸蓝光", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.kuin.one/api.php/app/" }, 
+{
+      "key":"csp_Jianying",
+      "name":"简影影视",
+      "type":3,
+      "api":"csp_Jianying",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"hjju123@qq.com$$$123456"
+    },
+{
 "key": "app_轻简",
 "name": "轻简",
 "type": 1,
@@ -270,6 +344,13 @@
 {"key":"酷影","name":"酷影","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
 {"key":"如意","name":"如意","type":3,"api":"csp_AppYsV2","ext":"http://cms.maoyingshi.cc/api.php/app/"},
 {"key":"策驰影院","name":"策驰影院(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/cechi.json"},
+{
+            "key" : "suying",
+            "name" : "速影",
+            "type" : 3,
+            "api" : "csp_XBPQ",
+            "ext" : "https://agit.ai/raoyang100/mi/raw/branch/master/xbpb/suying.json"
+        },
 {
       "key": "饭团",
       "name": "饭团(XBPQ)",
