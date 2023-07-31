@@ -10,6 +10,7 @@
 			"api": "csp_Czsapp",
 			"searchable": 1,
 			"quickSearch": 1,
+                                                "ext": "https://czzy.art/",
 			"filterable": 1
 		},
 {
@@ -53,28 +54,6 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"jar": "http://121.17.168.197:8787/0322.jar;md5;737DF5DD5B53E37EC7E8719A7E47C88A",
-			"filterable": 1
-		},
-		{
-			"key": "csp_Cokemv",
-			"name": "Cokemv(SP)",
-			"type": 3,
-			"api": "csp_Cokemv",
-			"m3u8ads": "hd.youyhn.com",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": ""
-		},
-		{"key":"csp_Dy1010","name":"双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
-		{
-			"key": "csp_Auete",
-			"name": "奥特(爬虫)",
-			"type": 3,
-			"api": "csp_Auete",
-			"m3u8ads": "hd.youyhn.com",
-			"searchable": 1,
-			"quickSearch": 1,
 			"filterable": 1
 		},
 		{
@@ -123,6 +102,7 @@
       "filterable": 1,
       "ext": "https://www.moguys.xyz/api.php/app/"
     },
+{"key":"南瓜影视","name":"南瓜","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://download.kstore.space/download/4127/6.txt"},
 {
       "key": "ok",
       "name": "Freeok(XBPQ)",
@@ -147,6 +127,9 @@
         "简介": "<p>&&</p>"
       }
     },
+{"key":"drjs_影探","name":"影探(JS)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/dr_py/libs/drpy.min.js","ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/JS/影探[V2].js"},
+{"key": "csp_New6v","name":"新6V(SP)","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,
+"jar": "https://agit.ai/n3rd/N3RD/raw/branch/master/JN/N3RD/J/lem0729.jar;md5;BFDB9DE9E53D37EC67A4362650A92C13","filterable":1,"ext":"http://www.xb6v.com"},
 {
       "key": "csp_XBPQ_ MP4高清",
       "name": "MP4高清(XBPQ)",
@@ -157,20 +140,12 @@
       "filterable": 0,
       "ext": "{\r\n\"作者\":\"凯哥\",\r\n\"站名\":\"高清MP4\",\r\n\"主页url\":\"https://m.mp4pa.com/\",\r\n\"请求头\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36\",\r\n\"cookie\":\"XLA_CI=a2ca85218444637c3867a7197bff43ad; mystyle=white; is_white=1; langType=0; history=%5B%7B%22name%22%3A%22%E9%99%80%E6%9E%AA%E5%B8%88%E5%A7%902021%E5%9B%BD%E8%AF%AD%22%2C%22pic%22%3A%22https%3A%2F%2Fpic.wujinpp.com%2Fupload%2Fvod%2F20210811-1%2F47958b8deb3062adf8b9aa5a59bf3b34.jpg%22%2C%22link%22%3A%22%2Fhddy%2Fhdmp470560-1-1.html%22%2C%22part%22%3A%22%E7%AC%AC01%E9%9B%86%22%7D%2C%7B%22name%22%3A%22%E5%A4%96%E6%8E%A8%22%2C%22pic%22%3A%22https%3A%2F%2Fimg.liangzipic.com%2Fupload%2Fvod%2F20230317-1%2Fbdd08160dc255463d24c48db188eccdf.jpg%22%2C%22link%22%3A%22%2Fhddy%2Fhdmp4334490-1-1.html%22%2C%22part%22%3A%22%E7%AC%AC01%E9%9B%86%22%7D%2C%7B%22name%22%3A%22%E6%88%91%E4%BB%AC%E7%9A%84%E9%A4%90%E6%A1%8C%22%2C%22pic%22%3A%22https%3A%2F%2Fimg.liangzipic.com%2Fupload%2Fvod%2F20230407-1%2F0a013c70df32f06197ef00a708ae9857.jpg%22%2C%22link%22%3A%22%2Fhddy%2Fhdmp4335502-1-1.html%22%2C%22part%22%3A%22%E7%AC%AC01%E9%9B%86%22%7D%2C%7B%22name%22%3A%22%E7%A5%9E%E5%81%B7%E5%A5%B6%E7%88%B82%22%2C%22pic%22%3A%22http%3A%2F%2Fpic2.iqiyipic.com%2Fimage%2F20201029%2Fbc%2Fd5%2Fv_106428374_m_601_m24_260_360.jpg%22%2C%22link%22%3A%22%2Fhddy%2Fhdmp49219-1-1.html%22%2C%22part%22%3A%22HD%E4%B8%AD%E5%AD%97%22%7D%2C%7B%22name%22%3A%22%E8%B0%81%E6%98%AF%E5%AE%9D%E8%97%8F%E6%AD%8C%E6%89%8B%20%E5%97%A8%E7%9C%8B%E7%89%88%22%2C%22pic%22%3A%22https%3A%2F%2Fimg.ffzypic.com%2Fupload%2Fvod%2F20230321-1%2F64d3138596510e46c8acf4207b9fd181.jpg%22%2C%22link%22%3A%22%2Fhddy%2Fhdmp4105629-1-1.html%22%2C%22part%22%3A%22%E7%AC%AC01%E9%9B%86%22%7D%2C%7B%22name%22%3A%22%E5%9F%83%E5%8D%9A%E6%8B%89%E5%89%8D%E7%BA%BF%22%2C%22pic%22%3A%22%2Fupload%2Fvod%2F20211208-1%2F83d1b1b52e881a8ecab182b9c06ba3d6.jpg%22%2C%22link%22%3A%22%2Fhddy%2Fhdmp4282628-1-1.html%22%2C%22part%22%3A%22%E7%AC%AC01%E9%9B%86%22%7D%5D; PHPSESSID=ruh6ak9cljvjabtbt7dno5t808\",\r\n\"热门推荐\":\"1\",\r\n\"直接播放\":\"0\",\r\n\"二次截取\":\"<ul class=\\\"myui-vodlist clearfix\\\">&&<ul class=\\\"myui-link__text clearfix\\\">\",\r\n\"数组\":\"<li&&</a>\",\r\n\"图片\":\"data-original=\\\"&&\\\"\",\r\n\"标题\":\"title=\\\"&&\\\"\",\r\n\"链接\":\"href=\\\"&&\\\"\",\r\n\"链接前缀\":\"\",\r\n\"副标题\":\"pic-text text-right\\\"&&</span>\",\r\n\"搜索url\":\"https://m.mp4pa.com/vodsearch/-------------.html?wd={wd}&submit=\",\r\n\"搜索模式\": \"1\",\r\n//\"搜索二次截取\": \"id=\\\"searchList\\\">&&<ul class=\\\"myui-page text-center clearfix\\\">\",\r\n\"搜索数组\": \"lazyload&&</a>\",\r\n\"搜索图片\": \"data-original=\\\"&&\\\"\",\r\n\"搜索标题\": \"title=\\\"&&\\\"\",\r\n\"搜索链接\": \"href=\\\"&&\\\"\",\r\n\"搜索链接前缀\":\"\",\r\n\"线路二次截取\":\"<ul class=\\\"myui-player__operate nav-tabs\\\">&&</ul>\",\r\n\"线路数组\":\"<li&&<li>\",\r\n\"线路标题\":\"</i>&&</a>[不包含:上一集]\",\r\n\"播放数组\":\"id=\\\"playlist\\\">&&</ul>\",\r\n\"状态\":\"更新：&&</p>\",\r\n\"导演\":\"导演：&&</p>\",\r\n\"主演\":\"主演：&&</p>\",\r\n\"简介\":\"简介：&&</p>\",\r\n\"播放列表\":\"<li&&</li>\",\r\n\"播放标题\":\">&&</a>\",\r\n\"播放链接\":\"href=\\\"&&\\\"\",\r\n\"播放链接前缀\":\"\",\r\n\"嗅探词\":\"m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a\",\r\n\"过滤词\":\"51.la#cnzz.com#baidu.com#bilibili.com\",\r\n\"播放请求头\":\"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36\",\r\n\"免嗅\":\"1\",\r\n\"分类\":\"电影$79#国产剧$30#综艺$40#动漫$90\",\r\n\"类型\":\"79--动作片$80#喜剧片$81#爱情片$82#科幻片$83#剧情$85#恐怖片$84#战争片$86||30--港台剧$36#日韩剧$52#美剧$35\",\r\n//\"地区\":\"1--美国$美国#日本$日本#韩国$韩国#印度$印度#英国$英国#法国$法国#俄罗斯$俄罗斯||30--美国$美国#日本$日本#韩国$韩国#印度$印度#英国$英国#法国$法国#俄罗斯$俄罗斯\",\r\n\"分类url\":\"https://m.mp4pa.com/vodtype/{cateId}/page/{catePg}.html\",\r\n\"筛选\":\"1\"\r\n}\r\n"
     },
-{"key": "csp_XBPQ_nmys","name": "农民","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json"},
+{"key":"csp_NongMing","name":"农民(SP)","type":3,"api":"csp_NongMing","searchable":1,"quickSearch":1,
+"jar": "https://agit.ai/n3rd/N3RD/raw/branch/master/JN/N3RD/J/lem0729.jar;md5;BFDB9DE9E53D37EC67A4362650A92C13","filterable":1},
+{"key":"drjs_cokemv","name":"Cokemv(DRPY)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/dr_py/libs/drpy.min.js","ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/JS/cokemv.js"},
+{"key":"drjs_Auete","name":"Auete(DRPY)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/dr_py/libs/drpy.min.js","ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/JS/Auete.js"},
 {"key": "csp_DuoX","name": "多线","type": 3,"api": "csp_DuoX","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"北极狐", "name": "北极狐", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType": "2", "ext": "https://www.kuin.one/api.php/app/"},
-{
-      "key": "csp_appys_影探",
-      "name": "影探",
-      "type": 3,
-      "playerType": "1",
-      "api": "csp_YT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/fan724.jar"
-    },
 {
             "key": "yaya",
             "name": "yaya",
@@ -340,7 +315,6 @@
 "filterable": 1,
 "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/"
 },
-{"key":"酷影","name":"酷影","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
 {"key":"如意","name":"如意","type":3,"api":"csp_AppYsV2","ext":"http://cms.maoyingshi.cc/api.php/app/"},
 {"key":"策驰影院","name":"策驰影院(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/cechi.json"},
 {
@@ -773,6 +747,8 @@
 {"name":"解析1","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 
 {"name":"解析2","type":1,"url":"http://113.125.122.109:5555/aiku.php?url="},
+{"name":"云视","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["iqiyi","youku","qq","mgtv","sohu","le"],"header":{"User-Agent":"Dart/2.17 (dart:io)"}}},
+
 {
 		"name": "777",
 		"type": 0,
@@ -1071,9 +1047,6 @@
 {"name":"默认💕","url": "https://vip.lianfaka.com/vip/?url=","ext":{"header": 
  {"User-Agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","Referer": "https://www.dy6g.com/"}}
 },
-
-{ "name": "分享者🌹", "url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=abhstwDGRSUVYZ0127&mgtv=app&url=", "type": 1, "ext": { "flag": [ "qiyi", "imgo", "爱奇艺", "奇艺", "qq", "腾讯", "youku", "优酷", "pptv", "PPTV", "letv", "乐视", "leshi", "bilibili", "哔哩哔哩", "哔哩", "mgtv", "芒果", "sohu", "xigua", "fun", "风行" ], "header": { "User-Agent": "Dalvik/2.1.0" }}},
-
         {
             "name": "分享者💕",
             "type": 0,
