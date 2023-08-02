@@ -127,6 +127,14 @@
         "简介": "<p>&&</p>"
       }
     },
+{
+      "key": "影探",
+      "name": "影探APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "http://我不是.肥猫.love:63/Jar/影探.jar",
+      "ext": "http://yt傻.lfytyl.com/api.php/app/"
+    },
 {"key":"drjs_影探","name":"影探(JS)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/dr_py/libs/drpy.min.js","ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/JS/影探[V2].js"},
 {"key": "csp_New6v","name":"新6V(SP)","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,
 "jar": "https://agit.ai/n3rd/N3RD/raw/branch/master/JN/N3RD/J/lem0729.jar;md5;BFDB9DE9E53D37EC67A4362650A92C13","filterable":1,"ext":"http://www.xb6v.com"},
@@ -177,6 +185,7 @@
             "ext": "http://www.miniku.cc/xgapp.php/v2/"
         },
 {"key": "dr_LIBVIO","name":"LIBVIO","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/LIBVIO.js"},
+{"key":"LIBVIO","name":"利奥","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/LIBVIO.json"},
 {"key":"NY","name":"纽约","type":1,"api":"https://www.nycvod.com/api.php/provide/vod","categories":[
 "国产剧",
 "韩国剧",
@@ -216,13 +225,54 @@
 			"ext": "https://sk100.tv/api.php/app/"
 		},
 {
+			"key": "csp_xml_飞速",
+			"name": "🚁飞速",
+			"type": 1,
+			"api": "https://www.feisuzyapi.com/api.php/provide/vod/?ac=list",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"playerType": 2,
+			"categories": [
+				"动作片",
+				"喜剧片",
+				"科幻片",
+				"恐怖片",
+				"爱情片",
+				"剧情片",
+				"战争片",
+				"纪录片",
+				"动画片",
+				"其他片",
+				"国产剧",
+				"欧美剧",
+				"香港剧",
+				"韩国剧",
+				"台湾剧",
+				"日本剧",
+				"海外剧",
+				"泰国剧",
+				"其他剧",
+				"体育赛事",
+				"国产动漫",
+				"日韩动漫",
+				"欧美动漫",
+				"港台动漫",
+				"海外动漫",
+				"大陆综艺",
+				"港台综艺",
+				"日韩综艺",
+				"欧美综艺"
+			]
+		},
+{
       "key": "BOF资源",
       "name": "暴风资源(采集)",
       "type": 1,
       "api": "http://by.bfzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "categories": [
         "国产剧",
         "香港剧",
@@ -336,7 +386,16 @@
     },
 {"key":"爱迪","name":"爱迪","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 {"key":"热播","name":"热播之家","type":3,"api":"https://agit.ai/raoyang100/mi/raw/branch/master/js/alljs.js","ext":"https://agit.ai/raoyang100/mi/raw/branch/master/js/rebozhijia.json"},
-{"key":"一龙","name":"一龙","type":3,"api":"csp_XBPQ","ext":"https://agit.ai/raoyang100/mi/raw/branch/master/xbpb/yilong.json"},
+ {
+      "key": "鲸落",
+      "name": "鲸落",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/xduo/json/raw/master/jingluo.json"
+    },
 {"key":"追剧兔","name":"追剧兔","type":3,"api":"csp_XBPQ","ext":"https://agit.ai/raoyang100/mi/raw/branch/master/xbpb/zhuijutu.json"},
 		{
 			"key": "js_qq",
