@@ -7,10 +7,10 @@
 			"key": "csp_CZSPP",
 			"name": "厂长(SP)",
 			"type": 3,
-			"api": "csp_Czsapp",
+			"api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
-                                                "ext": "https://czzy.art/",
+                                                "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/js/changzhang.js",
 			"filterable": 1
 		},
 {
@@ -43,6 +43,28 @@
 			"quickSearch": 1,
 "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;a5eaab0a824b174e0024d75e1d8731ff",
 			"filterable": 1		},
+{
+      "key": "荐片",
+      "name": "荐片",
+      "type": 3,
+      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/js/jianpian.js"
+    },
+ {
+      "key": "Icio影视",
+      "name": "Icio",
+      "type": 3,
+      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/js/icio.js"
+    },
 		{"key":"在线","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,
 "jar": "http://121.17.168.197:8787/0531.jar;md5;8345D3552E5E3238EFE3044031C7DA70","ext":"https://www.zxzj.pro/"},
 		{
@@ -185,8 +207,16 @@
             "ext": "http://www.miniku.cc/xgapp.php/v2/"
         },
 {"key": "dr_LIBVIO","name":"LIBVIO","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/LIBVIO.js"},
-{"key":"LIBVIO","name":"利奥","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;18b8df1e0f7813098c1e70979a264aad","ext":"https://weixine.net/sub/LIBVIO.json"},
+{
+      "key": "csp_Lib",
+      "name": "利奥",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.libvio.fun/"
+    },
 {"key":"NY","name":"纽约","type":1,"api":"https://www.nycvod.com/api.php/provide/vod","categories":[
 "国产剧",
 "韩国剧",
