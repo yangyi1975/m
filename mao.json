@@ -153,9 +153,10 @@
       "key": "影探",
       "name": "影探APP",
       "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "http://我不是.肥猫.love:63/Jar/影探.jar",
-      "ext": "http://yt傻.lfytyl.com/api.php/app/"
+      "playerType": "1",
+      "api": "csp_YT",
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;55894a9f32ba4201a1e2b157bb2e5c91",
+      "ext": ""
     },
 {"key":"drjs_影探","name":"影探(JS)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/dr_py/libs/drpy.min.js","ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/JS/影探[V2].js"},
 {"key": "csp_New6v","name":"新6V(SP)","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,
@@ -297,26 +298,31 @@
 			]
 		},
 {
-      "key": "BOF资源",
-      "name": "暴风资源(采集)",
+      "key": "cjzy_暴风",
+      "name": "暴风",
       "type": 1,
-      "api": "http://by.bfzyapi.com/api.php/provide/vod/",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "changeable": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/?wd=",
+      "playUrl": "",
       "categories": [
         "国产剧",
+        "国产动漫",
+        "大陆综艺",
+        "港台综艺",
         "香港剧",
-        "韩国剧",
+        "台湾剧",
+        "日本剧",
         "欧美剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
+        "泰国剧",
+        "日本动漫",
+        "日本综艺",
+        "综艺频道",
+        "新马泰综艺",
+        "纪录片",
         "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "纪录片"
+        "喜剧片",
+        "战争片"
       ]
     },
 {
