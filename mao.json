@@ -144,7 +144,7 @@
       "filterable": 1,
       "ext": "https://www.moguys.xyz/api.php/app/"
     },
-{"key":"南瓜影视","name":"南瓜","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://download.kstore.space/download/4127/6.txt"},
+{"key":"南瓜影视","name":"南瓜","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/南瓜影视.js"},
 {
       "key": "ok",
       "name": "Freeok(XBPQ)",
