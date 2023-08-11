@@ -54,18 +54,7 @@
       "changeable": 1,
       "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/js/jianpian.js"
     },
- {
-      "key": "Icio影视",
-      "name": "Icio",
-      "type": 3,
-      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/js/icio.js"
-    },
-		{"key":"在线","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,
+ {"key":"在线","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,
 "jar": "http://121.17.168.197:8787/0531.jar;md5;8345D3552E5E3238EFE3044031C7DA70","ext":"https://www.zxzj.pro/"},
 		{
 			"key": "csp_3EDY",
@@ -124,6 +113,15 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://mdy.ahailove.cn/api.php/app/"
+    },
+{"key": "三八影视",
+    "name":"888",
+    "type":4,
+    "api":"https://public.t4tv.hz.cz/888",
+    "searchable":1,
+"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;198eacbbe29abd694d54fa01ba98eab8",
+    "quickSearch":1,
+    "filterable": 1
     },
  {
       "key": "星辰",
@@ -193,10 +191,13 @@
       "filterable": 0,
       "ext": "{\r\n\"作者\":\"凯哥\",\r\n\"站名\":\"高清MP4\",\r\n\"主页url\":\"https://m.mp4pa.com/\",\r\n\"请求头\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36\",\r\n\"cookie\":\"XLA_CI=a2ca85218444637c3867a7197bff43ad; mystyle=white; is_white=1; langType=0; history=%5B%7B%22name%22%3A%22%E9%99%80%E6%9E%AA%E5%B8%88%E5%A7%902021%E5%9B%BD%E8%AF%AD%22%2C%22pic%22%3A%22https%3A%2F%2Fpic.wujinpp.com%2Fupload%2Fvod%2F20210811-1%2F47958b8deb3062adf8b9aa5a59bf3b34.jpg%22%2C%22link%22%3A%22%2Fhddy%2Fhdmp470560-1-1.html%22%2C%22part%22%3A%22%E7%AC%AC01%E9%9B%86%22%7D%2C%7B%22name%22%3A%22%E5%A4%96%E6%8E%A8%22%2C%22pic%22%3A%22https%3A%2F%2Fimg.liangzipic.com%2Fupload%2Fvod%2F20230317-1%2Fbdd08160dc255463d24c48db188eccdf.jpg%22%2C%22link%22%3A%22%2Fhddy%2Fhdmp4334490-1-1.html%22%2C%22part%22%3A%22%E7%AC%AC01%E9%9B%86%22%7D%2C%7B%22name%22%3A%22%E6%88%91%E4%BB%AC%E7%9A%84%E9%A4%90%E6%A1%8C%22%2C%22pic%22%3A%22https%3A%2F%2Fimg.liangzipic.com%2Fupload%2Fvod%2F20230407-1%2F0a013c70df32f06197ef00a708ae9857.jpg%22%2C%22link%22%3A%22%2Fhddy%2Fhdmp4335502-1-1.html%22%2C%22part%22%3A%22%E7%AC%AC01%E9%9B%86%22%7D%2C%7B%22name%22%3A%22%E7%A5%9E%E5%81%B7%E5%A5%B6%E7%88%B82%22%2C%22pic%22%3A%22http%3A%2F%2Fpic2.iqiyipic.com%2Fimage%2F20201029%2Fbc%2Fd5%2Fv_106428374_m_601_m24_260_360.jpg%22%2C%22link%22%3A%22%2Fhddy%2Fhdmp49219-1-1.html%22%2C%22part%22%3A%22HD%E4%B8%AD%E5%AD%97%22%7D%2C%7B%22name%22%3A%22%E8%B0%81%E6%98%AF%E5%AE%9D%E8%97%8F%E6%AD%8C%E6%89%8B%20%E5%97%A8%E7%9C%8B%E7%89%88%22%2C%22pic%22%3A%22https%3A%2F%2Fimg.ffzypic.com%2Fupload%2Fvod%2F20230321-1%2F64d3138596510e46c8acf4207b9fd181.jpg%22%2C%22link%22%3A%22%2Fhddy%2Fhdmp4105629-1-1.html%22%2C%22part%22%3A%22%E7%AC%AC01%E9%9B%86%22%7D%2C%7B%22name%22%3A%22%E5%9F%83%E5%8D%9A%E6%8B%89%E5%89%8D%E7%BA%BF%22%2C%22pic%22%3A%22%2Fupload%2Fvod%2F20211208-1%2F83d1b1b52e881a8ecab182b9c06ba3d6.jpg%22%2C%22link%22%3A%22%2Fhddy%2Fhdmp4282628-1-1.html%22%2C%22part%22%3A%22%E7%AC%AC01%E9%9B%86%22%7D%5D; PHPSESSID=ruh6ak9cljvjabtbt7dno5t808\",\r\n\"热门推荐\":\"1\",\r\n\"直接播放\":\"0\",\r\n\"二次截取\":\"<ul class=\\\"myui-vodlist clearfix\\\">&&<ul class=\\\"myui-link__text clearfix\\\">\",\r\n\"数组\":\"<li&&</a>\",\r\n\"图片\":\"data-original=\\\"&&\\\"\",\r\n\"标题\":\"title=\\\"&&\\\"\",\r\n\"链接\":\"href=\\\"&&\\\"\",\r\n\"链接前缀\":\"\",\r\n\"副标题\":\"pic-text text-right\\\"&&</span>\",\r\n\"搜索url\":\"https://m.mp4pa.com/vodsearch/-------------.html?wd={wd}&submit=\",\r\n\"搜索模式\": \"1\",\r\n//\"搜索二次截取\": \"id=\\\"searchList\\\">&&<ul class=\\\"myui-page text-center clearfix\\\">\",\r\n\"搜索数组\": \"lazyload&&</a>\",\r\n\"搜索图片\": \"data-original=\\\"&&\\\"\",\r\n\"搜索标题\": \"title=\\\"&&\\\"\",\r\n\"搜索链接\": \"href=\\\"&&\\\"\",\r\n\"搜索链接前缀\":\"\",\r\n\"线路二次截取\":\"<ul class=\\\"myui-player__operate nav-tabs\\\">&&</ul>\",\r\n\"线路数组\":\"<li&&<li>\",\r\n\"线路标题\":\"</i>&&</a>[不包含:上一集]\",\r\n\"播放数组\":\"id=\\\"playlist\\\">&&</ul>\",\r\n\"状态\":\"更新：&&</p>\",\r\n\"导演\":\"导演：&&</p>\",\r\n\"主演\":\"主演：&&</p>\",\r\n\"简介\":\"简介：&&</p>\",\r\n\"播放列表\":\"<li&&</li>\",\r\n\"播放标题\":\">&&</a>\",\r\n\"播放链接\":\"href=\\\"&&\\\"\",\r\n\"播放链接前缀\":\"\",\r\n\"嗅探词\":\"m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a\",\r\n\"过滤词\":\"51.la#cnzz.com#baidu.com#bilibili.com\",\r\n\"播放请求头\":\"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36\",\r\n\"免嗅\":\"1\",\r\n\"分类\":\"电影$79#国产剧$30#综艺$40#动漫$90\",\r\n\"类型\":\"79--动作片$80#喜剧片$81#爱情片$82#科幻片$83#剧情$85#恐怖片$84#战争片$86||30--港台剧$36#日韩剧$52#美剧$35\",\r\n//\"地区\":\"1--美国$美国#日本$日本#韩国$韩国#印度$印度#英国$英国#法国$法国#俄罗斯$俄罗斯||30--美国$美国#日本$日本#韩国$韩国#印度$印度#英国$英国#法国$法国#俄罗斯$俄罗斯\",\r\n\"分类url\":\"https://m.mp4pa.com/vodtype/{cateId}/page/{catePg}.html\",\r\n\"筛选\":\"1\"\r\n}\r\n"
     },
+{"key": "黑狐","name": "黑狐影视","type": 3,"searchable": 1,"quickSearch": 1,"playerType": "1","jar": "http://xhww.fun:63/小米/2.jar;md5;6e12873c628020196fe9400d1ef51f1c","api": "csp_XBPQ","ext": {"站名":"黑狐影院","主页url":"http://fagmn.com","数组":"class=\"stui-vodlist__box\"&&</a","图片":"data-original=\"&&\"","标题":"title=\"&&\"","链接":"href=\"&&\"","嗅探词":".m3u8#v3.huoshanvod.com#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com","过滤词":"/hls/#php","副标题":"<span class=\"pic-text text-right\">&&</span>","搜索url":"http://fagmn.com/search.php;post;searchword={wd}","搜索模式":"1","搜索数组":"<a class=\"v-thumb stui-vodlist__thumb&&</a>","搜索图片":"data-original=\"&&\"","搜索标题":"title=\"&&\"","搜索链接":"href=\"&&\"","搜索副标题":"<span class=\"pic-text text-right\">&&</span>","搜索后缀":"/view/","线路数组":"href=\"#down&&/a>[替换:奇异视频>>QI#优酷视频>>YOU#搜狐视频>>SH#咪咕视频>>MG]","线路标题":">&&<","播放数组":"class=\"stui-content__playlist clearfix&&</ul>","状态":"地区：&&</p>","导演":"导演：&&</p>","主演":"主演：&&</p>","简介":"简介：&&</div>","播放列表":"<a&&/a>","播放标题":">&&<","播放链接":"href=\"&&\"","免嗅":"0","分类":"电影$1#电视剧$2#动漫$3#综艺$4","分类url":"http://fagmn.com/list/{cateId}_{catePg}.html?order=time"}},
 {"key":"csp_NongMing","name":"农民(SP)","type":3,"api":"csp_NongMing","searchable":1,"quickSearch":1,
 "jar": "https://agit.ai/n3rd/N3RD/raw/branch/master/JN/N3RD/J/lem0729.jar;md5;BFDB9DE9E53D37EC67A4362650A92C13","filterable":1},
 {"key":"drjs_cokemv","name":"Cokemv(DRPY)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/dr_py/libs/drpy.min.js","ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/JS/cokemv.js"},
 {"key":"drjs_Auete","name":"Auete(DRPY)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/dr_py/libs/drpy.min.js","ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/JS/Auete.js"},
+{"key":"MM","name":"妹妹","type":3,"api":"csp_MmYs","searchable":1,
+"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;55894a9f32ba4201a1e2b157bb2e5c91","quickSearch":1,"changeable":0},
 {
             "key": "yaya",
             "name": "yaya",
@@ -211,7 +212,8 @@
             "key": "csp_MiNiku",
             "name": "迷你",
             "type": 3,
-            "api": "csp_AppYsV2",
+            "api": "csp_AppYs",
+"jar": "http://xhww.fun:63/小米/2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -378,11 +380,12 @@
       "key": "酷影",
       "name": "酷影",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "csp_Kuying",
       "searchable": 1,
       "quickSearch": 1,
+"changeable": 1,
       "filterable": 0,
-      "ext": "http://cms.realdou.cn/api.php/app/"
+       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;55894a9f32ba4201a1e2b157bb2e5c91"
     },
 {"key":"策驰影院","name":"策驰影院(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/cechi.json"},
 {
