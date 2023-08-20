@@ -54,7 +54,33 @@
       "changeable": 1,
       "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/js/jianpian.js"
     },
- {"key":"在线","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,
+ {
+      "key": "兔资源",
+      "name": "夜兔",
+      "type": 1,
+      "playerType": 1,
+      "api": "http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list",
+      "categories": [      
+      ],
+      "searchable": 1,
+      "quickSearch": 1
+     },
+{
+      "key":"AppYs_xylg2",
+      "name":"夜猫",
+      "type":3,
+      "playerType":2,
+      "api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+      "ext":"https://agit.ai/xyg2333/Box/raw/branch/master/js/自营蓝光2.js"
+     },
+{
+      "key": "小鹿",
+      "name": "小鹿",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {"分类":"电影$1#电视剧$31#动漫$4#综艺$3" ,"分类url": "http://www.xiaoluys.me/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html"}
+     },
+{"key":"在线","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,
 "jar": "http://121.17.168.197:8787/0531.jar;md5;8345D3552E5E3238EFE3044031C7DA70","ext":"https://www.zxzj.pro/"},
 		{
 			"key": "csp_3EDY",
@@ -134,16 +160,7 @@
       "playerType": "1",
       "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xbpb/xinchen.json"
     },
-{
-      "key": "蘑菇",
-      "name": "蘑菇",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.moguys.xyz/api.php/app/"
-    },
+{"key": "csp_AppYsV2如意","name": "如意","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"viewType": 1,"ext": "http://cms.maoyingshi.cc/api.php/app/","jar":"https://qu.ax/zWdG.js"},
 {"key":"南瓜影视","name":"南瓜","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/南瓜影视.js"},
 {
       "key": "ok",
@@ -169,16 +186,7 @@
         "简介": "<p>&&</p>"
       }
     },
-{
-      "key": "影探",
-      "name": "影探APP",
-      "type": 3,
-      "playerType": "1",
-      "api": "csp_YT",
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;55894a9f32ba4201a1e2b157bb2e5c91",
-      "ext": ""
-    },
-{"key":"drjs_影探","name":"影探(JS)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/dr_py/libs/drpy.min.js","ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/JS/影探[V2].js"},
+{"key":"drjs_影探","name":"影探(JS)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/dr_py/libs/drpy.min.js","ext":"https://agit.ai/xyg2333/Box/raw/branch/master/js/%E5%BD%B1%E6%8E%A2_V2_1.js"},
 {"key": "csp_New6v","name":"新6V(SP)","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,
 "jar": "https://agit.ai/n3rd/N3RD/raw/branch/master/JN/N3RD/J/lem0729.jar;md5;BFDB9DE9E53D37EC67A4362650A92C13","filterable":1,"ext":"http://www.xb6v.com"},
 {
@@ -196,8 +204,6 @@
 "jar": "https://agit.ai/n3rd/N3RD/raw/branch/master/JN/N3RD/J/lem0729.jar;md5;BFDB9DE9E53D37EC67A4362650A92C13","filterable":1},
 {"key":"drjs_cokemv","name":"Cokemv(DRPY)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/dr_py/libs/drpy.min.js","ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/JS/cokemv.js"},
 {"key":"drjs_Auete","name":"Auete(DRPY)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/dr_py/libs/drpy.min.js","ext":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/EXT/JS/Auete.js"},
-{"key":"MM","name":"妹妹","type":3,"api":"csp_MmYs","searchable":1,
-"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;55894a9f32ba4201a1e2b157bb2e5c91","quickSearch":1,"changeable":0},
 {
             "key": "yaya",
             "name": "yaya",
@@ -832,7 +838,8 @@
         "User-Agent": "okhttp/3.12.0"
       }
     },
- {
+ {"name": "880", "type": 1, "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],"header":{"User-Agent":"Dart/3.0(dart:io)"}}},
+{
       "name": "探探",
       "type": 1,
       "url": "http://lflong.lyyytv.cn/json.php?url=",
@@ -1417,7 +1424,16 @@
 			}
 		],
 		"rules": [{"name":"量子","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-                                               {
+             {
+      "name": "星星",
+      "hosts": [
+        "aws.ulivetv.net"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },                                  
+{
 				"name": "火山嗅探",
 				"hosts": ["huoshan.com"],
 				"regex": ["item_id="]
