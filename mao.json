@@ -1,7 +1,7 @@
 {
 	"spider":"http://121.17.168.197:8787/0912.jar;md5;F20B74480C058B1FF6236601F92D65A8",
 	//"spider": "http://121.17.168.197:8787/0707.jar;md5;25E80EE963CD29E6469489691BF2D5B8",
-	//"spider":"http://121.17.168.197:8787/0628.jar;md5;6FB0A205B857F35E165A5F8CB2F8056D",
+	//"spider":"http://121.17.168.197:8787/0628.jar;md5;F20B74480C058B1FF6236601F92D65A8",
 	"sites": [
 {
 			"key": "csp_CZSPP",
@@ -13,6 +13,16 @@
                                                 "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/czspp.js",
 			"filterable": 1
 		},
+{
+      "key": "Czsapp",
+      "name": "厂长",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
 {
 				"key": "优质",
 				"name": "优质资源(切)",
@@ -54,6 +64,7 @@
       "changeable": 1,
       "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/js/jianpian.js"
     },
+{"key": "csp_Mp4Mov","name": "Mp4","type": 3,"api": "csp_Mp4Mov","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"},
  {
       "key": "低端影视",
       "name": "低端",
