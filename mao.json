@@ -7,10 +7,10 @@
 			"key": "csp_CZSPP",
 			"name": "厂长(SP)",
 			"type": 3,
-			"api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+			"api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
 			"searchable": 1,
 			"quickSearch": 1,
-                                                "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/js/changzhang.js",
+                                                "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/czspp.js",
 			"filterable": 1
 		},
 {
