@@ -65,7 +65,30 @@
       "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/js/jianpian.js"
     },
 {"key": "csp_Mp4Mov","name": "Mp4","type": 3,"api": "csp_Mp4Mov","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"},
- {
+{
+      "key": "csp_AppYsV2_嘉靓",
+      "name": "嘉靓",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cms.jialiangos.com/api.php/app/"
+    },
+{
+      "key": "csp_XBPQ_黑影",
+      "name": "黑影剧院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "http://tv.hyjy666.top/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/letter/{letter}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+      }
+    },
+{
       "key": "低端影视",
       "name": "低端",
       "type": 3,
@@ -184,7 +207,61 @@
         "简介": "<p>&&</p>"
       }
     },
-{"key":"drjs_影探","name":"影探(JS)","type":3,"api":"https://agit.ai/n3rd/N3RD/raw/branch/master/JN/dr_py/libs/drpy.min.js","ext":"https://agit.ai/xyg2333/Box/raw/branch/master/js/%E5%BD%B1%E6%8E%A2_V2_1.js"},
+{
+      "key": "探探",
+      "name": "影探",
+      "type": 3,
+      "playerType": "1",
+      "api": "csp_YTVIP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://ytcms.lyyytv.cn/api.php/app/",
+      "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/yt.jar"
+    },
+ {
+      "key": "彩虹",
+      "name": "彩虹",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod",
+      "categories": [
+        "连续剧",
+        "电影",
+        "动漫",
+        "综艺"
+      ]
+    },
+{
+      "key": "365",
+      "name": "年年",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://shuyuan.miaogongzi.net/shuyuan/1694553637.txt;md5;fa797d3f25f35eb3fea9a369bc55620f",
+      "ext": "http://mp4.ghlyys.com/api.php/app/"
+    },
+ {
+      "key": "秒看资源",
+      "name": "秒看",
+      "type": 1,
+      "api": "https://www.xy1080.net/api.php/provide/vod/from/XYHD",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "综艺",
+        "电视剧",
+        "电影",
+        "动漫"
+      ]
+    },
 {"key": "csp_New6v","name":"新6V(SP)","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,
 "jar": "https://agit.ai/n3rd/N3RD/raw/branch/master/JN/N3RD/J/lem0729.jar;md5;BFDB9DE9E53D37EC67A4362650A92C13","filterable":1,"ext":"http://www.xb6v.com"},
 {
