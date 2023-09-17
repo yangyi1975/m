@@ -1,7 +1,7 @@
 {
-	"spider":"http://121.17.168.197:8787/0912.jar;md5;F20B74480C058B1FF6236601F92D65A8",
-	//"spider": "http://121.17.168.197:8787/0707.jar;md5;25E80EE963CD29E6469489691BF2D5B8",
-	//"spider":"http://121.17.168.197:8787/0628.jar;md5;F20B74480C058B1FF6236601F92D65A8",
+	//"spider":"http://121.17.168.197:8787/0912.jar;md5;F20B74480C058B1FF6236601F92D65A8",
+	//"spider": "http://121.17.168.197:8787/0914.jar;md5;5F97911CC7630B48ED3C69BA545818B5",
+	"spider":"http://121.17.168.197:8787/hccx.jar;md5;F2B67A99A11A53AD6CB09DFF695C4580",
 	"sites": [
 {
 			"key": "csp_CZSPP",
@@ -245,7 +245,6 @@
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://shuyuan.miaogongzi.net/shuyuan/1694553637.txt;md5;fa797d3f25f35eb3fea9a369bc55620f",
       "ext": "http://mp4.ghlyys.com/api.php/app/"
     },
  {
@@ -557,7 +556,7 @@
 				"searchable": 0,
 				"quickSearch": 0,
 				"filterable": 1,
-				"jar": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087",
+				"jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
 				"ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/yjxx.json"
 			},
 			{
@@ -568,7 +567,7 @@
 				"searchable": 1,
 				"quickSearch": 1,
 				"filterable": 1,
-				"jar": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087",
+"jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
 				"ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/bili.json"
 			},
 			{
@@ -579,7 +578,7 @@
 				"searchable": 1,
 				"quickSearch": 1,
 				"filterable": 1,
-				"jar": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087",
+"jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
 				"ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/yanchang.json"
 			},
 			{
@@ -590,7 +589,7 @@
 				"searchable": 1,
 				"quickSearch": 1,
 				"filterable": 1,
-				"jar": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087",
+				"jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
 				"ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/xiqu.json"
 			},
 			{
@@ -601,7 +600,7 @@
 				"searchable": 1,
 				"quickSearch": 1,
 				"filterable": 1,
-				"jar": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087",
+				"jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
 				"ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/shaoer.json"
 			},
 			{
@@ -612,7 +611,7 @@
 				"searchable": 1,
 				"quickSearch": 1,
 				"filterable": 1,
-				"jar": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087",
+				"jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
 				"ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/xuexi.json"
 			},
 			{
@@ -623,7 +622,7 @@
 				"searchable": 1,
 				"quickSearch": 1,
 				"filterable": 1,
-				"jar": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087",
+				"jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
 				"ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/dianjing.json"
 			},
 			{
@@ -634,7 +633,7 @@
 				"searchable": 0,
 				"quickSearch": 0,
 				"filterable": 1,
-				"jar": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087",
+				"jar": "https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
 				"ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/qipai.json"
 			},
 			{
