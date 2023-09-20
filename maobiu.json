@@ -122,8 +122,8 @@
 			"m3u8ads": "hd.youyhn.com",
 			"type": 3,
 			"filterable": 1,
-			"playerType": 2,
-			"jar": "http://121.17.168.197:8787/0322.jar;md5;737DF5DD5B53E37EC7E8719A7E47C88A",
+			"playerType": 1,
+ "jar": "http://我不是.肥猫.love:63/Jar/pandaQ230823.jar;md5;094B4D3625D42893F683CC2E95311153",
 			"quickSearch": 1,
 			"searchable": 1,
 			"ext": "https://api-aws.11ty.top"
@@ -147,6 +147,7 @@
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
+ "jar": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171",
       "filterable": 1,
       "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
     },
@@ -182,6 +183,50 @@
       "jar": "http://xhww.fun:63/小米/2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
       "playerType": "1",
       "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xbpb/xinchen.json"
+    },
+{
+      "key": "暴風",
+      "name": "暴風",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "changeable": 1,
+"categories": [
+				"动作片",
+				"喜剧片",
+				"科幻片",
+				"恐怖片",
+				"爱情片",
+				"剧情片",
+				"战争片",
+				"纪录片",
+				"动画片",
+				"其他片",
+				"国产剧",
+				"欧美剧",
+				"香港剧",
+				"韩国剧",
+				"台湾剧",
+				"日本剧",
+				"海外剧",
+				"泰国剧",
+				"其他剧",
+				"体育赛事",
+				"国产动漫",
+				"日韩动漫",
+				"欧美动漫",
+				"港台动漫",
+				"海外动漫",
+				"大陆综艺",
+				"港台综艺",
+				"日韩综艺",
+				"欧美综艺",
+"体育赛事",
+				"足球",
+				"篮球",
+				"网球",
+				"斯诺克"
+			]
     },
 {"key":"南瓜影视","name":"南瓜","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/南瓜影视.js"},
 {
@@ -220,23 +265,6 @@
       "ext": "http://ytcms.lyyytv.cn/api.php/app/",
       "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/yt.jar"
     },
- {
-      "key": "彩虹",
-      "name": "彩虹",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod",
-      "categories": [
-        "连续剧",
-        "电影",
-        "动漫",
-        "综艺"
-      ]
-    },
 {
       "key": "365",
       "name": "年年",
@@ -262,8 +290,6 @@
         "动漫"
       ]
     },
-{"key": "csp_New6v","name":"新6V(SP)","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,
-"jar": "https://agit.ai/n3rd/N3RD/raw/branch/master/JN/N3RD/J/lem0729.jar;md5;BFDB9DE9E53D37EC67A4362650A92C13","filterable":1,"ext":"http://www.xb6v.com"},
 {
       "key": "csp_XBPQ_ MP4高清",
       "name": "MP4高清(XBPQ)",
@@ -389,7 +415,12 @@
 				"大陆综艺",
 				"港台综艺",
 				"日韩综艺",
-				"欧美综艺"
+				"欧美综艺",
+"体育赛事",
+				"足球",
+				"篮球",
+				"网球",
+				"斯诺克"
 			]
 		},
 {
@@ -402,16 +433,6 @@
 {"key": "豌豆荚", "name": "豌豆", "type": 1, "api": "https://ks.wandouzy.cc/api.php/provide/vod/",
 "categories": ["国产剧","欧美剧", "泰国剧", "港台剧", "海外剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "动作", 
 "喜剧", "科幻", "悬疑", "古装", "灾难", "犯罪", "冒险", "奇幻", "惊悚", "历史", "记录", "恐怖", "动画", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫",  "足球", "篮球", "MV", "解说", "短片"]},
-{
-      "key":"csp_Jianying",
-      "name":"简影影视",
-      "type":3,
-      "api":"csp_Jianying",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"hjju123@qq.com$$$123456"
-    },
 {"key":"策驰影院","name":"策驰影院(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/cechi.json"},
 {
             "key" : "suying",
@@ -1368,6 +1389,7 @@
 			}
 		],
 "rules": [
+{"name":"磁力廣告","hosts":["magnet"],"regex":["更多","社區","xuu","最新","最新","直播","更新","社区","有趣","有趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]},
 {"name":"量子","hosts":["vip.lz","hd.lz",".com"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name":"bf","hosts":["bfzy","s5.bfzycdn"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
