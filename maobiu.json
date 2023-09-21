@@ -103,7 +103,28 @@
     },
 {"key":"在线","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,
 "jar": "http://121.17.168.197:8787/0531.jar;md5;8345D3552E5E3238EFE3044031C7DA70","ext":"https://www.zxzj.pro/"},
-		{
+  {
+      "key": "csp_Auete",
+      "name": "Auete",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f20b74480c058b1ff6236601f92d65a8",
+      "filterable": 1
+    },
+{
+      "key": "Xinsj",
+      "name": "新视觉",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "searchable": 1,
+      "quickSearch": 1,
+"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f20b74480c058b1ff6236601f92d65a8",
+      "changeable": 1,
+      "ext": "https://www.6080yy3.com/"
+    },		
+{
 			"key": "csp_3EDY",
 			"name": "3E电影(SP)",
 			"type": 3,
@@ -441,7 +462,28 @@
             "api" : "csp_XBPQ",
             "ext" : "https://agit.ai/raoyang100/mi/raw/branch/master/xbpb/suying.json"
         },
-{"key":"爱迪","name":"爱迪","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
+{
+      "key": "yumi1",
+      "name": "玉米",
+      "type": 1,
+      "api": "http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/",
+      "searchable": 1,
+      "playUrl": "json:http://110.42.3.71:5000/api/jiexi/common?Key=R9Ah232tBzRxK9oC9m&url=",
+      "quickSearch": 1,
+      "playerType": 1,
+      "filterable": 1
+    },
+{
+      "key": "爱迪",
+      "name": "爱迪",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f20b74480c058b1ff6236601f92d65a8",
+      "filterable": 1,
+      "ext": "https://api123.adys.app/xgapp.php/v3/"
+    },
 {
       "key": "鲸落",
       "name": "鲸落",
@@ -1392,7 +1434,8 @@
 {"name":"磁力廣告","hosts":["magnet"],"regex":["更多","社區","xuu","最新","最新","直播","更新","社区","有趣","有趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]},
 {"name":"量子","hosts":["vip.lz","hd.lz",".com"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-{"name":"bf","hosts":["bfzy","s5.bfzycdn"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+{"name":"bf","hosts":["bfzy","bfzycdn"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+{"name":"极速","hosts":["jszy"],"regex":["#EXTINF.*?\\s+.*?muguacdn*?\\.ts\\s+","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {
       "name": "星星",
       "hosts": [
