@@ -1,6 +1,6 @@
 {
-	//"spider":"http://121.17.168.197:8787/0912.jar;md5;F20B74480C058B1FF6236601F92D65A8",
-	//"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;25bb6cc4f338fc20df9e5121b5bd1a25",
+	//"spider":"http://121.17.168.197:8787/0926.jar;md5;533F279C487B5BD34CF4947A7AFBEE34",
+	//"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f20b74480c058b1ff6236601f92d65a8",
 	"spider":"http://121.17.168.197:8787/hccx.jar;md5;F2B67A99A11A53AD6CB09DFF695C4580",
 	"sites": [
 {
@@ -73,6 +73,7 @@
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
+"playerType": 3,
       "filterable": 1,
       "ext": "http://cms.jialiangos.com/api.php/app/"
     },
@@ -121,8 +122,18 @@
       "searchable": 1,
       "quickSearch": 1,
 "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f20b74480c058b1ff6236601f92d65a8",
-      "changeable": 1,
+     "changeable": 1,
       "ext": "https://www.6080yy3.com/"
+    },
+{
+      "key": "追忆",
+      "name": "追忆",
+      "type": 3,
+      "api": "https://download.kstore.space/download/4927/Axkl/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://smallmi.xiaohewanwan.love:63/zhuiyi.js"
     },		
 {
 			"key": "csp_3EDY",
@@ -195,23 +206,13 @@
       "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xbpb/%e4%b9%90%e7%8c%aa%e5%bd%b1%e8%a7%86.json"
     },
 {
-      "key": "星辰",
-      "name": "星辰",
-      "type": 3,
-      "api": "csp_XBPQ",
-"searchable": 1,
-      "quickSearch": 1,
-      "jar": "http://xhww.fun:63/小米/2.jar;md5;6e12873c628020196fe9400d1ef51f1c",
-      "playerType": "1",
-      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xbpb/xinchen.json"
-    },
-{
-      "key": "暴風",
-      "name": "暴風",
+      "key": "暴风",
+      "name": "暴风",
       "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1,
+"playerType": "3",
 "categories": [
 				"动作片",
 				"喜剧片",
@@ -283,8 +284,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "http://ytcms.lyyytv.cn/api.php/app/",
-      "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/yt.jar"
+      "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/yt.jar",
+      "ext": "http://ytcms.lyyytv.cn/api.php/app/"
     },
 {
       "key": "365",
@@ -337,7 +338,7 @@
         },
 {"key":"csp_WoGG","name":"玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,
 "jar": "http://121.17.168.197:8787/0912.jar;md5;F20B74480C058B1FF6236601F92D65A8",
-"changeable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://www.wogg.xyz/"},
+"changeable":1,"ext":"http://www.wogg.xyz/"},
 {
             "key": "csp_MiNiku",
             "name": "迷你",
@@ -520,7 +521,50 @@
             "quickSearch": 1,
             "filterable": 1,
             "jar": "http://我不是.肥猫.love:63/Jar/pandaQ230614c.jar;md5;FE290599BF2EF6D202B92B9B733F776F"
-        },	
+        },
+  {
+      "key": "索尼资源",
+      "name": "索尼",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "港剧",
+        "台剧",
+        "泰剧",
+        "海外剧",
+        "纪录片",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "动画片",
+        "港台动漫",
+        "海外动漫",
+        "演唱会",
+        "体育赛事",
+        "篮球",
+        "足球",
+        "预告片",
+        "斯诺克",
+        "影视解说"
+      ],
+      "searchable": 1,
+      "quickSearch": 1
+    },	
 			{"key":"360","name":"360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 			{
 				"key": "量子资源",
