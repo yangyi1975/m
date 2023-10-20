@@ -301,15 +301,15 @@
 {"key":"csp_WoGG","name":"玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,
 "jar": "http://121.17.168.197:8787/0912.jar;md5;F20B74480C058B1FF6236601F92D65A8",
 "changeable":1,"ext":"http://www.wogg.xyz/"},
-{
-      "key": "T4_推送",
-      "name": "T4",
-      "type": 4,
-      "changeable": 1,
-      "playerType": 2,
-"jar": "https://agit.ai/1018610504/wdck/raw/branch/master/jar/ymz.jar",
-      "api": "http://home.jundie.top:9520/spider/csp_Push",
-      "ext": "5b2495de641e4d959b6e396be369af32"
+ {
+      "key": "csp_Bttoo",
+      "name": "2Bt",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;9c19e5e073a7f0bd30fed7305fe1bfba",
+      "changeable": 0
     },
 {
       "key": "csp_Jianying_JoJo",
