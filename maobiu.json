@@ -88,6 +88,9 @@
       "changeable": 1,
       "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/js/jianpian.js"
     },
+{"key":"JOJO","name":"JOJO","type":3,"api":"csp_Jiohub","searchable":1,"filterable":1,"changeable":1,
+"jar": "https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;adeeebb26800fe82bc631f409adc4f2f",
+"ext":{"danmu":true}},
 {
       "key": "橘子",
       "name": "橘子",
@@ -206,7 +209,7 @@
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
- "jar": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171",
+ "jar": "https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;adeeebb26800fe82bc631f409adc4f2f",
       "filterable": 1,
       "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
     },
@@ -298,7 +301,39 @@
 {"key":"csp_WoGG","name":"玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,
 "jar": "http://121.17.168.197:8787/0912.jar;md5;F20B74480C058B1FF6236601F92D65A8",
 "changeable":1,"ext":"http://www.wogg.xyz/"},
+{
+      "key": "T4_推送",
+      "name": "T4",
+      "type": 4,
+      "changeable": 1,
+      "playerType": 2,
+"jar": "https://agit.ai/1018610504/wdck/raw/branch/master/jar/ymz.jar",
+      "api": "http://home.jundie.top:9520/spider/csp_Push",
+      "ext": "5b2495de641e4d959b6e396be369af32"
+    },
+{
+      "key": "csp_Jianying_JoJo",
+      "name": "简影",
+      "type": 3,
+      "api": "csp_Jianying",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "hjju123@qq.com$$$123456",
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e60ee56ecb22ea3575471e7dd9e0c338"
+    },
 {"key": "dr_LIBVIO","name":"LIBVIO","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/LIBVIO2.jsd"},
+{
+      "key": "蚂蚁视频",
+      "name": "蚂蚁视频",
+      "type": 3,
+      "api": "csp_Mayiys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext":"http://rzys.xyz",
+      "jar": "http://cdn.qiaoji8.com/fix0929.jar;md5;20ed6a24ee5bc9cbc64438ef315df2d2"
+    },
 {"key":"NY","name":"纽约","type":1,"api":"https://www.nycvod.com/api.php/provide/vod","categories":[
 "国产剧",
 "韩国剧",
@@ -1299,6 +1334,18 @@
 {"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name":"bf","hosts":["bfzy","s6.bfzycdn.com",".com"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name":"极速","hosts":["jszy"],"regex":["#EXTINF.*?\\s+.*?muguacdn*?\\.ts\\s+","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+{
+      "name":"索尼广告",
+      "hosts":
+      [
+        "suonizy"
+      ],
+      "regex":
+      [
+        "#EXT-X-DISCONTINUITY**#EXTINF:7.680000,[sS]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?s+.*?1o.*?.tss+"
+      ]
+    },
 {
       "name": "星星",
       "hosts": [
