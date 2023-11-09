@@ -179,6 +179,39 @@
      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;f6eac2c1831ccd0215892f30c306958f",
       "changeable": 1
     },
+{
+      "key": "觅视频",
+      "name": "觅视频",
+      "type": 3,
+      "api": "csp_AppSK",
+      "searchable": 1,
+      "quickSearch": 1,
+ "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;488cfa45fed992feb2a2344586970d90",
+      "changeable": 1,
+      "ext": "FbjPcVZY48PN/RIZ5UWFro5tctBJAZhIEz5OvLqy0VZGH5/R/mCR2kPI46ezGyKoem+Vym4tmTJ5Gio/CM0pPlNKXd+d2hTULzhB0SoYmLd4"
+    },
+{
+      "key": "极光",
+      "name": "极光",
+      "type": 3,
+      "api": "csp_AppSK",
+      "searchable": 1,
+      "quickSearch": 1,
+ "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;488cfa45fed992feb2a2344586970d90",
+      "changeable": 1,
+      "ext": "FbjPcVZY48PN/RIZ5UWFro1kcspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2B7ULz5M1CsK3w=="
+    },
+ {
+      "key": "达人",
+      "name": "达人",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
+    },
  {
       "key": "csp_XBP南坊",
       "name": "南坊影视",
@@ -310,6 +343,16 @@
      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/lxhfans/TV/master/JS/rski.js"
     },
     {
+      "key": "csp_woggcli",
+      "name": "俊哥玩偶",
+      "type": 4,
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/JGWO.jar",
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+{
       "key": "Wobg",
       "name": "表哥",
       "type": 3,
@@ -398,17 +441,27 @@
 "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;9c19e5e073a7f0bd30fed7305fe1bfba",
       "changeable": 0
     },
-{"key": "dr_LIBVIO","name":"LIBVIO","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/LIBVIO2.jsd"},
 {
-      "key": "蚂蚁视频",
-      "name": "蚂蚁视频",
+      "key": "csp_Lib",
+      "name": "LibVio",
       "type": 3,
-      "api": "csp_Mayiys",
+      "api": "csp_Libvio",
       "searchable": 1,
       "quickSearch": 1,
+"jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;A545311F6B2171C6FC3F7D042382C84E",
+      "filterable": 1,
+      "ext": "https://www.libvio.pro/"
+    },
+ {
+      "key": "csp_MYYS",
+      "name": "蚂蚁",
+      "type": 3,
+      "api": "csp_MYYS",
+      "searchable": 1,
+      "quickSearch": 1,
+"jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;A545311F6B2171C6FC3F7D042382C84E",
       "filterable": 0,
-      "ext":"http://rzys.xyz",
-      "jar": "https://gitee.com/lianes/lanco/raw/master/fan.txt;md5;533f279c487b5bd34cf4947a7afbee34"
+      "ext": "http://rzys.xyz"
     },
 {
             "key": "zizi", 
