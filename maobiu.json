@@ -373,6 +373,9 @@
       "changeable": 1,
       "ext": "https://drpy.cainisi.cf/js/9U电影.js"
     },
+{"key":"天天","name":"天天","type":3,"api":"csp_TTian","playerType":1,"jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;d1fa24b46f218f455bc3f4b948fd457e","ext":"http://op.ysdqjs.cn"},
+{"key":"哔嘀","name":"哔嘀","type":3,"api":"csp_Bdys","searchable":1,"jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;d1fa24b46f218f455bc3f4b948fd457e","quickSearch":1,"filterable":1},
+{"key":"加速器","name":"加速器","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;d1fa24b46f218f455bc3f4b948fd457e","ext":"http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod"},
 {
       "key": "csp_XBPQ_麻衣呼呀",
       "name": "麻衣",
@@ -749,45 +752,14 @@
 				"type": 3,
 				"url": "Web"
 			},
-{
-      "name": "高速解析",
-      "type": 1,
-      "url": "http://zn.ghlyys.com/znjsonapi.php.php?url=",
-      "ext": {
-        "flag": [
-          "JMZN"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
   {
       "name": "飞云",
       "type": 1,
-      "url": "https://daina.hk/api/?key=e1e84ecae847b6e4a1a27fd4611f45f5&url=",
+      "url": "http://122.228.84.103:5829/jx/?url=F",
       "ext": {
         "flag": [
-          "FYNB",
-          "mgtv",
-          "qiyi",
-          "imgo",
-          "爱奇艺",
-          "奇艺",
-          "qq",
-          "腾讯",
-          "youku",
-          "优酷",
-          "pptv",
-          "PPTV",
-          "letv",
-          "乐视",
-          "leshi",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩",
-          "mgtv",
-          "芒果"
+          "seven",
+          "FYNB"
         ],
         "header": {
           "User-Agent": "okhttp/4.1.0"
@@ -827,19 +799,6 @@
           "XALS",
           "YuMi-vip"
         ]
-      }
-    },
-{
-      "name": "左岸",
-      "type": 1,
-      "url": "http://110.42.2.247:880/analysis/json/?uid=2500&my=abejnoqyFGMN023789&format=json&url=",
-      "ext": {
-        "flag": [
-          "seven"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
       }
     },
   {
