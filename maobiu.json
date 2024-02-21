@@ -97,12 +97,49 @@
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"
     },
  {
+      "key": "圣城影视",
+      "name": "圣城",
+      "type": 3,
+      "playerType": "2",
+      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+      "ext": "http://dt.xn--yety82d.love/js/SC1080.js"
+    },
+{
+      "key": "乐乐",
+      "name": "乐乐",
+      "type": 1,
+      "api": "https://leshizyapi.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "咕噜",
+      "name": "咕噜",
+      "type": 3,
+      "api": "csp_Movie2",
+      "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/Movie5.json",
+      "jar": "http://www.wya6.cn/tz/wyog.php"
+    },
+{"key":"星光影院","name":"星光","type":3,"api":"csp_XBPQ","ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+module-item-text\">&&","线路数组": "[排序:玉玉专用2>玉玉专用1]", "线路标题":"玉玉专用","分类":"电影$1#电视剧$2#综艺$4#动漫$3","分类url":"https://www.jm332.com/vod/type/id/area/{area}/class/{class}/{cateId}/page/{catePg}/year/{year}.html"}},
+ {
+      "key": "csp_New6v",
+      "name": "新6V",
+      "type": 3,
+      "api": "csp_New6v",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+"jar": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;9a9c3fffc0b2d762f1373a63c6d46fec",
+      "ext": "https://www.xb6v.com"
+    },
+{
       "key": "freeok",
       "name": "freeok",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "2",
-      "jar": "http://luoye.shop/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+    
       "ext": {
         "分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html",
         "分类": "FREE电影&FREE剧集&FREE动漫&FREE综艺&FREE短剧&FREE少儿",
@@ -1202,32 +1239,126 @@
         "10.85"
       ]
     },
-    {
-      "name": "索尼",
+     {
+      "name": " 非凡",
       "hosts": [
-        "suonizy",
-"v8.suonizy-youku.com"
+        "ffzy"
       ],
       "regex": [
+        "25.0666",
+        "25.08",
+        "20.52"
+      ]
+    },
+    {
+      "name": " 量子",
+      "hosts": [
+        "lz"
+      ],
+      "regex": [
+        "18.5333",
+        "19.52"
+      ]
+    },
+    {
+      "name": " 乐视",
+      "hosts": [
+        "leshiyun"
+      ],
+      "regex": [
+        "15.92"
+      ]
+    },
+    {
+      "name": " 优质",
+      "hosts": [
+        "yzzy"
+      ],
+      "regex": [
+        "19.52",
+        "19.13"
+      ]
+    },
+    {
+      "name": " YQK",
+      "hosts": [
+        "ydd"
+      ],
+      "regex": [
+        "18.4",
         "15.1666",
-        "15.2666"
+        "16.5333"
       ]
     },
     {
-      "name": "暴風",
+      "name": " 快看",
       "hosts": [
-        "bfzy"
+        "kuaikan"
       ],
       "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+        "20.123",
+        "20.167"
       ]
     },
-{"name":"磁力廣告","hosts":["magnet"],"regex":["更多","社區","xuu","最新","最新","直播","更新","社区","有趣","有趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]},
-{"name":"量子","hosts":["vip.lz","hd.lz",".com"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-{"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-{"name":"bf","hosts":["bfzy","s5.bfzycdn.com",".com"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-{"name":"极速","hosts":["jszy"],"regex":["#EXTINF.*?\\s+.*?muguacdn*?\\.ts\\s+","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-  {
+    {
+      "name": " 索尼",
+      "hosts": [
+        "suonizy"
+      ],
+      "regex": [
+        "16.3333",
+        "15.1666",
+        "15.2666",
+        "#EXTINF.*?\\s+.*?original.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": " 暴风",
+      "hosts": [
+        "bf"
+      ],
+      "regex": [
+        "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": " 蜗牛",
+      "hosts": [
+        "vip.123pan.cn",
+        "rescdn.wuxivlog.cn"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY[\\s\\S]+?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "农民嗅探",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
+      ]
+    },
+    {
+      "name": "hs",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "dy",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    },
+    {
       "name": "cl",
       "hosts": [
         "magnet"
@@ -1236,32 +1367,6 @@
         "最 新",
         "直 播",
         "更 新"
-      ]
-    },
-{"name":"索尼广告","hosts":["suonizy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?p1ayer.*?\\.ts\\s+","#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts\\s+"]},
-{"name":"暴风广告","hosts":["bfzy","bfbfvip"],"regex":["#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+"]},
-{"name":"星星广告","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-{"name":"快看广告","hosts":["kuaikan"],"regex":["#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-{"name":"一起看广告","hosts":["yqk88"],"regex":["18.4","15.1666"]},
-{
-      "name": "蜗牛直连去广",
-      "hosts": [
-        "vip.123pan.cn",
-        "rescdn.wuxivlog.cn"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:20.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-      ]
-    },
-{
-      "name": "星星",
-      "hosts": [
-        "aws.ulivetv.net"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
       ]
     },                                  
 {
