@@ -1,7 +1,7 @@
 {
 	//"spider":"https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;901ea6a29847aa6148284d51e85bcd5f",
-	"spider": "http://121.17.168.197:8787/20240219.jar;md5;1A00D5032CC02FAD54510BAB6D48ED4A",
-	//"spider":"http://121.17.168.197:8787/1222.jar;md5;58ADBD51A4BBED437F442E4E9A4C85C2",
+	"spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/yangyi1975/jar/main/0318.jar;md5;335A5351ABE2FAB05554E5F067F34234",
+	//"spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/yangyi1975/jar/main/1222.jar;md5;58ADBD51A4BBED437F442E4E9A4C85C2",
 	"sites": [
 {
 				"key": "量子资源",
@@ -47,26 +47,59 @@
 				"斯诺克"
 			]
 			},
-{		
-	        "key": "py_gaoqing",
-		"name": "高清资源",
-		"type": 3,
-		"api": "py_gaoqing",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0,
-		"ext": "https://agit.ai/raoyang100/mi/raw/branch/master/py/1080.json"
-        },
 {
-		"key": "py_xinl",
-		"name": "新浪资源",
-		"type": 3,
-		"api": "py_xinl",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0,
-		"ext": "https://agit.ai/raoyang100/mi/raw/branch/master/py/xinlang.json"
-        },
+      "key": "高清资源网",
+      "name": "1080高清",
+      "type": 1,
+      "api": "https://api.1080zyku.com/inc/apijson.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "categories":["动作片","国产剧","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","欧美剧","日本剧","泰国剧","韩国剧","台湾剧","香港剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫"]
+    }, 
+{
+      "key": "api_新浪采集",
+      "name": "新浪采集",
+      "type": 1,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "playUrl": "",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "大陆剧",
+        "港澳剧",
+        "台湾剧",
+        "欧美剧",
+        "日剧",
+        "韩剧",
+        "泰剧",
+        "纪录片",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "战争片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "伦理片",
+        "动漫",
+        "综艺",
+        "体育"
+      ]
+    },
+{
+      "key": "酷看",
+      "name": "酷看",
+      "type": 3,
+      "api": "csp_Kkys",
+      "searchable": 1,
+      "quickSearch": 1,
+"jar": "https://agit.ai/kankan314/cattv/raw/branch/main/Jar/kan.jar;md5;82a31f7dab4c0eb89a46584f3934d810",
+      "changeable": 1
+    },
 		{
 			"key": "csp_kuaikan",
 			"name": "快看(爬虫)",
@@ -74,7 +107,7 @@
 			"api": "csp_Kuaikan",
 			"searchable": 1,
 			"quickSearch": 1,
-"jar": "http://121.17.168.197:8787/0604.jar;md5;9FCC2ED12545BCB180D1BBDBBF620102",
+"jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/yangyi1975/jar/main/0604.jar;md5;9FCC2ED12545BCB180D1BBDBBF620102",
 			"filterable": 1
 		},
 		{
@@ -84,6 +117,7 @@
 			"api": "csp_Kunyu77",
 			"searchable": 1,
 			"quickSearch": 1,
+"jar": "https://agit.ai/kankan314/cattv/raw/branch/main/Jar/kan.jar;md5;82a31f7dab4c0eb89a46584f3934d810",
 			"filterable": 1		},
 {
       "key": "荐片",
@@ -244,7 +278,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
-"jar": "http://121.17.168.197:8787/hccx.jar;md5;FC692CA5F9FA2DFA443F96C37EDAA81A",
+"jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/yangyi1975/jar/main/hccx.jar;md5;FC692CA5F9FA2DFA443F96C37EDAA81A",
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xbpb/55kan.json"
@@ -1207,40 +1241,8 @@
 			}
 		],
 "rules": [
- {
-      "name": "proxy",
-      "hosts": [
-        "raw.githubusercontent.com",
-        "googlevideo.com",
-        "cdn.v82u1l.com",
-        "cdn.iz8qkg.com",
-        "cdn.kin6c1.com",
-        "c.biggggg.com",
-        "c.olddddd.com",
-        "haiwaikan.com",
-        "www.histar.tv",
-        "youtube.com",
-        "uhibo.com",
-        ".*boku.*",
-        ".*nivod.*",
-        ".*ulivetv.*"
-      ]
-    },
     {
-      "name": "海外看",
-      "hosts": [
-        "haiwaikan"
-      ],
-      "regex": [
-        "10.0099",
-        "10.3333",
-        "16.0599",
-        "8.1748",
-        "10.85"
-      ]
-    },
-     {
-      "name": " 非凡",
+      "name": "♻️非凡",
       "hosts": [
         "ffzy"
       ],
@@ -1251,7 +1253,7 @@
       ]
     },
     {
-      "name": " 量子",
+      "name": "♻️量子",
       "hosts": [
         "lz"
       ],
@@ -1261,7 +1263,7 @@
       ]
     },
     {
-      "name": " 乐视",
+      "name": "♻️乐视",
       "hosts": [
         "leshiyun"
       ],
@@ -1270,7 +1272,7 @@
       ]
     },
     {
-      "name": " 优质",
+      "name": "♻️优质",
       "hosts": [
         "yzzy"
       ],
@@ -1280,7 +1282,7 @@
       ]
     },
     {
-      "name": " YQK",
+      "name": "♻️YQK",
       "hosts": [
         "ydd"
       ],
@@ -1291,7 +1293,7 @@
       ]
     },
     {
-      "name": " 快看",
+      "name": "♻️快看",
       "hosts": [
         "kuaikan"
       ],
@@ -1301,7 +1303,7 @@
       ]
     },
     {
-      "name": " 索尼",
+      "name": "♻️索尼",
       "hosts": [
         "suonizy"
       ],
@@ -1313,7 +1315,7 @@
       ]
     },
     {
-      "name": " 暴风",
+      "name": "♻️暴风",
       "hosts": [
         "bf"
       ],
@@ -1322,7 +1324,7 @@
       ]
     },
     {
-      "name": " 蜗牛",
+      "name": "♻️蜗牛",
       "hosts": [
         "vip.123pan.cn",
         "rescdn.wuxivlog.cn"
@@ -1368,203 +1370,8 @@
         "直 播",
         "更 新"
       ]
-    },                                  
-{
-				"name": "火山嗅探",
-				"hosts": ["huoshan.com"],
-				"regex": ["item_id="]
-			}, {
-				"name": "抖音嗅探",
-				"hosts": ["douyin.com"],
-				"regex": ["is_play_url="]
-			},
-			{
-				"host": "*",
-				"rule": [
-					"default.365yg.com"
-				]
-			},
-			{
-				"host": "dyxs20.com",
-				"rule": [
-					".m3u8"
-				]
-			},
-			{
-				"host": "www.agemys.cc",
-				"rule": [
-					"cdn-tos",
-					"obj/tos-cn"
-				]
-			},
-			{
-				"host": "brovod.com",
-				"rule": [
-					".m3u8"
-				]
-			},
-			{
-				"host": "renren.pro",
-				"rule": [
-					".m3u8"
-				]
-			},
-			{
-				"host": "kanb.tv",
-				"rule": [
-					".m3u8",
-					".m3u8?",
-					".mp4"
-				]
-			},
-			{
-				"host": "91free.vip",
-				"rule": [
-					".m3u8"
-				]
-			},
-			{
-				"host": "188kan.com",
-				"rule": [
-					".m3u8"
-				]
-			},
-			{
-				"host": "zyone.vqyt.cn",
-				"rule": [
-					".m3u8",
-					".m3u8?",
-					"http",
-					"vkey?"
-				]
-			},
-			{
-				"host": "v.t-ui.cn",
-				"rule": [
-					".m3u8",
-					"m3u8?",
-					"vip.ffzy-play4.com"
-				]
-			},
-			{
-				"host": "dadou.pro",
-				"rule": [
-					".m3u8",
-					"m3u8?"
-				]
-			},
-			{
-				"host": "www.agemys.cc",
-				"rule": [
-					"cdn-tos",
-					"obj/tos-cn"
-				]
-			},
-			{
-				"host": "zjmiao.com",
-				"rule": [
-					"play.videomiao.vip/API.php",
-					"time="
-				]
-			},
-			{
-				"host": "www.sharenice.net",
-				"rule": [
-					"http.*?/play.{0,3}\\?[^url]{2,8}=.*"
-				]
-			},
-			{
-				"host": "www.sharenice.net",
-				"rule": [
-					"qianpailive.com",
-					"vid="
-				]
-			},
-			{
-				"host": "*",
-				"rule": [
-					"douyin.com/aweme",
-					"video_id="
-				]
-			},
-			{
-				"host": "*",
-				"rule": [
-					"huoshan.com",
-					"/item/video/"
-				]
-			},
-			{
-				"host": "*",
-				"rule": [
-					"http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"
-				]
-			},
-			{
-				"host": "*",
-				"rule": [
-					"http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"
-				]
-			},
-	    {
-	    	"name": "嗅探过滤",
-	    	"host": "*",
-	    	"rule": [
-	    		"http((?!http).){12,}?\\.(m3u8|mp4|ts|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"
-	    	],
-	    	"filter": [
-	    		"http((?!http).){12,}?\\.(js|css|png|jpg|png|ico|ru=)\\?.*"
-	    	]
-	    
-	    },
-    {"host": "*","rule": ["default.365yg.com"]},
-    {"host": "dyxs20.com","rule": [".m3u8"]},
-    {"host": "www.agemys.cc","rule": ["cdn-tos","obj/tos-cn"]},
-    {"host": "zjmiao.com","rule": ["play.videomiao.vip/API.php","time="]},
-    {"host": "www.sharenice.net","rule": ["http.*?/play.{0,3}\\?[^url]{2,8}=.*"]},
-    {"host": "www.sharenice.net","rule": ["qianpailive.com","vid="]},
-    {"host": "*","rule": ["douyin.com/aweme","video_id="]},
-    {"host": "*","rule": ["huoshan.com","/item/video/"]},
-    {"host": "*","rule": ["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
-    {"host": "*","rule": ["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
-		"flags": [
-			"YuMi-vip",
-    "优酷视频",
-    "youku",
-    "seven",
-    "优酷",
-    "优 酷",
-    "优酷视频",
-    "qq",
-    "腾讯",
-    "腾 讯",
-    "腾讯视频",
-    "iqiyi",
-    "qiyi",
-    "奇艺",
-    "爱奇艺",
-    "爱 奇 艺",
-    "m1905",
-    "xigua",
-    "letv",
-    "leshi",
-    "乐视",
-    "乐 视",
-    "sohu",
-    "搜狐",
-    "搜 狐",
-    "搜狐视频",
-    "tudou",
-    "pptv",
-    "mgtv",
-    "芒果",
-    "imgo",
-    "芒果TV",
-    "芒 果 T V",
-    "bilibili",
-    "哔 哩",
-    "哔 哩 哔 哩"
-		],
+    }
+  ],
 		"ijk": [{
 				"group": "软解码",
 				"options": [{
