@@ -1,15 +1,17 @@
 {
 	//"spider":"https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;901ea6a29847aa6148284d51e85bcd5f",
-	"spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/yangyi1975/jar/main/0318.jar;md5;335A5351ABE2FAB05554E5F067F34234",
-	//"spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/yangyi1975/jar/main/0410.jar;md5;013794CDA7F4898B65B8A7F7382CC5A1",
+	//"spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/yangyi1975/jar/main/0318.jar;md5;335A5351ABE2FAB05554E5F067F34234",
+	"spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/yangyi1975/jar/main/pg.jar;md5;8E4214ACBAC107FD7AAA83A9D504EFD5",
 	"sites": [
 {
 				"key": "量子资源",
 				"name": "量子资源",
-				"type": 1,
-				"api": "http://cj.lziapi.com/api.php/provide/vod/",
-				"searchable": 1,
-				"quickSearch": 1,
+				 "type": 1,
+      "api": "http://127.0.0.1:10079/p/0/proxy/http://cj.lziapi.com/api.php/provide/vod/?",
+      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1,
 "categories": [
 				"动作片",
 				"喜剧片",
@@ -47,6 +49,47 @@
 				"斯诺克"
 			]
 			},
+ {
+      "key": "非凡",
+      "name": "非凡",
+      "type": 1,
+      "api": "http://127.0.0.1:10079/p/0/proxy/http://cj.ffzyapi.com/api.php/provide/vod/?",
+      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "国产动漫",
+        "日韩动漫",
+        "国产剧",
+        "韩国剧",
+        "日本剧",
+        "电影片",
+        "连续剧",
+        "综艺片",
+        "动漫片",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "香港剧",
+        "欧美剧",
+        "记录片",
+        "台湾剧",
+        "海外剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫"
+      ]
+    },
 {
       "key": "高清资源网",
       "name": "1080高清",
@@ -75,7 +118,6 @@
 			"api": "csp_Kuaikan",
 			"searchable": 1,
 			"quickSearch": 1,
-"jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/yangyi1975/jar/main/0604.jar;md5;9FCC2ED12545BCB180D1BBDBBF620102",
 			"filterable": 1
 		},
 {
@@ -112,6 +154,17 @@
       "playerType": "2",
       "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
       "ext": "http://dt.xn--yety82d.love/js/爱看.js"
+    },
+{
+      "key": "yydsys",
+      "name": "里盘",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "http://152.32.170.60/leevi/PiG/raw/branch/master/lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json"
     },
 {
       "key": "csp_Vidhub2",
@@ -227,12 +280,11 @@
       "key": "csp_New6v",
       "name": "新6V",
       "type": 3,
-      "api": "csp_New6v",
+      "api": "csp_Xb6v",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-"jar": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;9a9c3fffc0b2d762f1373a63c6d46fec",
-      "ext": "https://www.xb6v.com"
+      "changeable": 1,
+      "timeout": 60,
+      "ext": "http://152.32.170.60/leevi/PiG/raw/branch/master/lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
     },
 {"key":"迅雷吧","name":"迅雷吧","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,
 "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar","filterable":1},
@@ -305,7 +357,7 @@
 "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;9c19e5e073a7f0bd30fed7305fe1bfba",
       "changeable": 0
     },
-{"key": "暴风采集","name": "暴风资源","type": 1,"api": "https://app.bfzyapi.com/api.php/provide/vod/","playUrl": "","categories": ["国产剧","国产动漫","动作片","科幻片","剧情片","喜剧片","爱情片","恐怖片","战争片","香港剧","台湾剧","日本剧","欧美剧","泰国剧","日本动漫","综艺频道","大陆综艺","港台综艺","日本综艺","新马泰综艺","纪录片"]},
+{"key": "暴风采集","name": "暴风资源","type": 1,"api": "http://127.0.0.1:10079/p/0/proxy/https://app.bfzyapi.com/api.php/provide/vod/","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","categories": ["国产剧","国产动漫","动作片","科幻片","剧情片","喜剧片","爱情片","恐怖片","战争片","香港剧","台湾剧","日本剧","欧美剧","泰国剧","日本动漫","综艺频道","大陆综艺","港台综艺","日本综艺","新马泰综艺","纪录片"]},
 {
       "key": "guangsuapi",
       "name": "光速采集",
