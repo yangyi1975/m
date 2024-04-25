@@ -1,13 +1,13 @@
 {
 	//"spider":"https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;901ea6a29847aa6148284d51e85bcd5f",
 	//"spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/yangyi1975/jar/main/0318.jar;md5;335A5351ABE2FAB05554E5F067F34234",
-	"spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/yangyi1975/jar/main/pg.jar;md5;8E4214ACBAC107FD7AAA83A9D504EFD5",
+	"spider":"http://152.32.170.60/leevi/PiG/raw/branch/master/pg.jar;md5;7220FDFDA5E9DBC5521BAF2B25D8706C",
 	"sites": [
 {
 				"key": "量子资源",
 				"name": "量子资源",
 				 "type": 1,
-      "api": "http://127.0.0.1:10079/p/0/proxy/http://cj.lziapi.com/api.php/provide/vod/?",
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
       "playerType": 1,
       "searchable": 1,
@@ -49,6 +49,15 @@
 				"斯诺克"
 			]
 			},
+{
+      "key": "网盘配置",
+      "name": "网盘及彈幕配置",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "http://152.32.170.60/leevi/PiG/raw/branch/master/lib/tokenm.json"
+    },
  {
       "key": "非凡",
       "name": "非凡",
