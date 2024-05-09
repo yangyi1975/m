@@ -8,9 +8,9 @@
 				"name": "量子资源",
 				 "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
-      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
       "playerType": 1,
       "searchable": 1,
+"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
       "changeable": 1,
 "categories": [
 				"动作片",
@@ -140,6 +140,68 @@
       "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
       "ext": "https://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/荐片.js"
     },
+{"key":"PQ4kvm","name": "4k影院","type": 3,"api": "csp_XBPQ",
+ "jar": "http://152.32.170.60/1452635819/h/raw/branch/master/api/PQcl.jar;md5;423E33EC108C0F7816200CEBAF18FB69",
+ "ext": "http://152.32.170.60/1018610504/GY123/raw/branch/master/XBPQ/4kyingyan.json"
+},
+{"key":"耐看PQ","name":"耐看影视(PQ)","type":3,"api":"csp_XBPQ", 
+"jar": "http://152.32.170.60/1452635819/h/raw/branch/master/api/PQcl.jar;md5;423E33EC108C0F7816200CEBAF18FB69",
+ "ext":{
+      "分类url":"https://nkvod.com/show/{cateId}--{by}------{catePg}---{year}.html",
+      "分类":"电视剧$2#电影$1#综艺$3#动漫$4",
+      "简介":"<p>&&</p>",
+      "搜索url":"https://nkvod.com/nk/-------------.html?wd={wd}",
+      "线路数组":"class=\"module-tab-item tab-item\"&&</div>",
+      "线路标题":"<span>&&</span>[排序:腾讯>奇艺>优酷>芒果>搜狐]"
+      }
+},
+{"key":"云飞BPQ","name":"云飞影视(PQ)","type":3,"api":"csp_XBPQ","playerType":1,"searchable":1,"filterable":1,
+ "jar": "http://152.32.170.60/1452635819/h/raw/branch/master/api/PQcl.jar;md5;423E33EC108C0F7816200CEBAF18FB69",
+"ext":{
+   "分类url":"https://yfeil.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;mar",
+   "分类":"电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongman",
+   "简介":"detail-sketch\">&&<div class=\"play-btn",
+   "线路数组":"stui-pannel-box b playlist mb&&</div></div>",
+   "线路标题":"class=\"title\">&&</h3>[不包含:美女直播]",
+   "搜索url":"/search/{wd}----------{pg}---/",
+   "播放链接":"href=\"&&\"",
+   "跳转播放链接":"urlDecode(var player_*url\":\"&&\")"
+   }
+},
+{"key":"PBYY","name":"  片吧","type":3,"api":"csp_XBPQ",
+"jar": "http://152.32.170.60/1452635819/h/raw/branch/master/api/PQcl.jar;md5;423E33EC108C0F7816200CEBAF18FB69",
+"ext":{
+"线路标题":"💦+>&&<small+线+<small*>&&<+路",  
+"线路数组": "data-dropdown-value=&&</div>",
+"播放标题":"+>&&</a>",
+"分类url":"https://www.ipianba.com/sort/{cateId}.html",
+"分类":"电影&电视剧&综艺&动漫","分类值":"1&2&4&3"}},
+{"key":"234PQ","name":"月亮影院","type":3,"api":"csp_XBPQ","searchable":1,"filterable":1,"quickSearch":1,
+"jar": "http://152.32.170.60/1452635819/h/raw/branch/master/api/PQcl.jar;md5;423E33EC108C0F7816200CEBAF18FB69",
+"ext":{
+"分类url":"https://www.zqzdzj.com/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+"分类":"电视剧$2#电影$1#综艺$3#动漫$4",
+"数组": "class=\"pack-ykpack\">&&pack-subtitle cor3 hidden",
+"简介":"友情提醒🔺勿信广告，避免受骗🔺+id=\"cText\">&&</a>",
+"线路数组":"channelname swiper-slide\">&&</a>",
+"线路标题":"💠+&nbsp;&&<[排序:腾讯>奇艺>优酷>芒果>搜狐]"}},
+{"key":"jqq","name":"  剧圈圈","type":3,"api":"csp_XBPQ",
+"jar": "http://152.32.170.60/1452635819/h/raw/branch/master/api/PQcl.jar;md5;423E33EC108C0F7816200CEBAF18FB69",
+"ext":{
+"线路标题":"💦+>&&<small+线+<small*>&&<+路",  
+"线路数组": "data-dropdown-value=&&</div>",
+"播放标题":"+>&&</a>",
+"分类url":"https://www.jqqzx.cc/vodshow/area/{area}/class/{class}/id/{cateId}/year/{year}.html",
+"分类":"电影&剧集&综艺&动漫","分类值":"dianying&juji&zongyi&dongman"}},
+{"key":"BCYS","name":"  北川影视","type":3,"api":"csp_XBPQ",
+"jar": "http://152.32.170.60/1452635819/h/raw/branch/master/api/PQcl.jar;md5;423E33EC108C0F7816200CEBAF18FB69",
+"ext":{
+"线路标题":"💦+>&&<small+线+<small*>&&<+路",  
+"线路数组": "data-dropdown-value=&&</div>",
+"播放标题":"+>&&</a>",
+"播放数组": "<div class=\"module-play-list\">&&</div>",
+"分类url":"https://www.bczhuiju.com/vodshow/{cateId}-{area}--{class}-{lang}-------{year}/",
+"分类":"电影&电视剧&综艺&动漫","分类值":"1&2&3&4"}},
 {
       "key": "白嫖",
       "name": "白嫖影视",
@@ -182,7 +244,6 @@
       "api": "csp_Vidhub2",
       "searchable": 1,
       "quickSearch": 1,
-"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
 "jar": "http://happy.xn--z7x900a.live/jar/PandaQ240414.jar;md5;a04dbe1aab6e31e03da7aee83b754c8b",
       "filterable": 1
     },
@@ -201,7 +262,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-"jar": "https://jihulab.com/yingshiche/tvbox/-/raw/main/YSC.jar;md5;e3b13a050567989d1774ae1363baf3bf",
+"jar": "http://152.32.170.60/1452635819/h/raw/branch/master/api/PQcl.jar;md5;423E33EC108C0F7816200CEBAF18FB69",
       "ext": "http://svip.weixine.net:88/uploads/itvbox/sub/348.json"
     },
 {
@@ -211,7 +272,7 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-"jar": "https://jihulab.com/yingshiche/tvbox/-/raw/main/YSC.jar;md5;e3b13a050567989d1774ae1363baf3bf",
+"jar": "http://152.32.170.60/1452635819/h/raw/branch/master/api/PQcl.jar;md5;423E33EC108C0F7816200CEBAF18FB69",
       "filterable": 1,
       "ext": "http://svip.weixine.net:88/uploads/itvbox/sub/zizi.json"
     },
@@ -235,6 +296,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+"jar": "http://152.32.170.60/1452635819/h/raw/branch/master/api/PQcl.jar;md5;423E33EC108C0F7816200CEBAF18FB69",
       "ext": {
         "分类url": "http://dy.liuyunw.com/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#电影解说$5"
@@ -285,6 +347,7 @@
       "filterable": 1,
       "searchable": 1,
       "quickSearch": 1,
+"jar": "http://152.32.170.60/1452635819/h/raw/branch/master/api/PQcl.jar;md5;423E33EC108C0F7816200CEBAF18FB69",
       "ext": "分类url:https://www.57mv.cn/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}/,分类:电影$1#电视剧$2#综艺$3#动漫$4#动画片$20#短剧$29"
     },
  {
@@ -300,6 +363,7 @@
 {"key":"迅雷吧","name":"迅雷吧","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,
 "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar","filterable":1},
 {"key":"云播","name":"云播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,
+"jar": "http://152.32.170.60/1452635819/h/raw/branch/master/api/PQcl.jar;md5;423E33EC108C0F7816200CEBAF18FB69",
 "ext":{"影片类型":"分类：&&主演","导演":"导演：</span>&&</p>","主演":"主演：</span>&&</p>","简介":"class=\"sketch content\">&&</span>",
 "数组":"myui-vodlist__thumb&&</a>","标题":"title=\"&&\"","副标题":"pic-tag pic-tag-top\">&&</span>","图片":"data-original=\"&&\"","链接":"href=\"&&\"","搜索模式":"1","搜索url":"http://www.hktvyun.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=500","搜索二次截取":"\"list\":[&&]","搜索数组":"{&&}","搜索标题":"\"name\":\"&&\"","搜索图片":"\"pic\":\"&&\"","搜索链接":"http://www.hktvyun.com/vod/detail/id/+\"id\":&&,+html","嗅探词":".m3u8#mp4","线路数组":"</a><h3&&/h3>","线路标题":"title\">&&<","播放数组":"<ul class=\"myui-content__list scrollbar&&</ul>","播放标题":">&&<","播放列表":"<a&&/a>","分类url":"http://www.hktvyun.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;a","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
 {
