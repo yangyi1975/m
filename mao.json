@@ -1,7 +1,7 @@
 {
-	//"spider":"https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;901ea6a29847aa6148284d51e85bcd5f",
-	//"spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/yangyi1975/jar/main/0318.jar;md5;335A5351ABE2FAB05554E5F067F34234",
-	"spider":"http://152.32.170.60/leevi/PiG/raw/branch/master/pg.jar;md5;7220FDFDA5E9DBC5521BAF2B25D8706C",
+	//"spider":"https://notabug.org/yangyi1975/cat/raw/master/jar/pg.jar;md5;1C440DB2B9DB3FDED634EB17997AC82F",
+	"spider": "https://mirror.ghproxy.com/https://github.com/yangyi1975/jar/raw/main/pg.jar;md5;F458A0AB6B0BDDA064B9E1D98E50707F",
+	//"spider":"https://mirror.ghproxy.com/https://github.com/yangyi1975/jar/raw/main/hccx.jar",
 	"sites": [
 {
 				"key": "量子资源",
@@ -182,6 +182,7 @@
       "api": "csp_Vidhub2",
       "searchable": 1,
       "quickSearch": 1,
+"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
 "jar": "http://happy.xn--z7x900a.live/jar/PandaQ240414.jar;md5;a04dbe1aab6e31e03da7aee83b754c8b",
       "filterable": 1
     },
@@ -221,6 +222,7 @@
       "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
+"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
 "jar": "https://jihulab.com/yingshiche/tvbox/-/raw/main/YSC.jar;md5;e3b13a050567989d1774ae1363baf3bf",
       "filterable": 1,
       "ext": "http://svip.weixine.net:88/uploads/itvbox/sub/dianyinghezi.json"
