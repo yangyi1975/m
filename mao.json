@@ -142,19 +142,6 @@
       "线路标题":"<span>&&</span>[排序:腾讯>奇艺>优酷>芒果>搜狐]"
       }
 },
-{"key":"云飞BPQ","name":"云飞影视(PQ)","type":3,"api":"csp_XBPQ","playerType":1,"searchable":1,"filterable":1,
- "jar": "https://mirror.ghproxy.com/https://github.com/yangyi1975/jar/raw/main/hccx.jar",
-"ext":{
-   "分类url":"https://yfeil.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;mar",
-   "分类":"电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongman",
-   "简介":"detail-sketch\">&&<div class=\"play-btn",
-   "线路数组":"stui-pannel-box b playlist mb&&</div></div>",
-   "线路标题":"class=\"title\">&&</h3>[不包含:美女直播]",
-   "搜索url":"/search/{wd}----------{pg}---/",
-   "播放链接":"href=\"&&\"",
-   "跳转播放链接":"urlDecode(var player_*url\":\"&&\")"
-   }
-},
 {"key":"PBYY","name":"  片吧","type":3,"api":"csp_XBPQ",
 "jar": "https://mirror.ghproxy.com/https://github.com/yangyi1975/jar/raw/main/hccx.jar",
 "ext":{
