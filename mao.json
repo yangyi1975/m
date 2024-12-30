@@ -1,6 +1,6 @@
 {
-	 "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729938537491/1026.jar;md5;b3c44a3be68151a9fea6e0b441bdb2fd",
-	//"spider": "https://git.acwing.com/yangyi1975/m/-/raw/master/jar/1030.jar;md5;AAF8C2637BA9BC7408E422719ADB0CC6",
+	 "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735370809906/fan.txt;md5;9136a7f6aec51c5b18e911121774ab5f",
+	//"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734962677433/wex.txt;md5;14e5e75c55cd716d7be3b5006d2df13a",
 	//"spider":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;2AF9C2C95BF862E8D0AA204F7D2E8FEE",
 	"sites": [
 {
@@ -111,93 +111,15 @@
  {
       "key": "荐片",
       "name": "荐片",
-      "api": "csp_Jianpian",
       "type": 3,
-      "playerType": "2",
-      "ext": "http://api2.rinhome.com"
-    },
- {
-      "key": "csp_TianTian",
-      "name": "天天",
-      "type": 3,
-      "api": "csp_TianTian",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
-    },
-{
-            "key": "农民影视",
-            "name": "农民影视",
-            "type": 3,
-            "api": "csp_WexNmys",
-"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;3843f962622e1fa261e6cd26ebbe2807",
-            "searchable": 1,
-            "changeable": 1
-        },
-{
-      "key": "csp_XBPQ_奇侠",
-      "name": "奇侠影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/json/奇侠.json",
-      "jar": "https://git.acwing.com/iduoduo/orange/-/raw/main/jar/fine.jar;md5;70235CDCA3C95116FFC00BEA3A99C2C6"
-    },
- {
-      "key": "hipy_js_金牌影院",
-      "name": "金牌影院",
-      "type": 3,
-      "api": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_js/金牌影院.js"
+      "changeable": 1,
+      "playerType": "1",
+      "api": "https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jp.js"
     },
   {
-      "key": "hipy_js_瓜子视频",
-      "name": "瓜子视频",
-      "type": 3,
-      "api": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_js/瓜子视频.js"
-    },
-{
-      "key": "js_nangua",
-      "name": "南瓜秒播",
-      "type": 3,
-      "api": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_js/南瓜影视[优].js"
-    },
- {
-      "key": "糯米",
-      "name": 糯米",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
- {
-      "key": "文才",
-      "name": "文才",
-      "type": 3,
-      "api": "csp_Jpys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
- {
       "key": "可可",
       "name": "可可",
       "type": 3,
@@ -205,58 +127,133 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729928513059/fan.txt;md5;8851819289f80deae32319080028db3b",
+      "changeable": 1
+    },
+  {
+      "key": "糯米",
+      "name": "糯米",
+      "type": 3,
+      "api": "csp_Nmyswv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+ {
+      "key": "热播",
+      "name": "热播",
+      "type": 3,
+      "api": "csp_AppTT",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
+    },
+{
+      "key": "苹果",
+      "name": "苹果",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+ {
+      "key": "欢视",
+      "name": "欢视",
+      "type": 3,
+      "api": "csp_AppTT",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
+    },
+{
+      "key": "文采",
+      "name": "文采",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
       "changeable": 1
     },
 {
-      "key": "繁荣",
-      "name": "凡人",
+      "key": "csp_Kanke",
+      "name": "看客",
       "type": 3,
-      "api": "csp_Frong",
-      "playerType": 1,
-      "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTV8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MzNhN2ZmYTljODU0MTJjNzQyZjdhMjA5fDI1fDU2ODY4NTQzNEZFQzdDOEMyOTBBRTRGQjMyNUZGMTMwfHNoaWppZW1hb3R2fDMzYTdmZmE5Yzg1NDEyYzc=",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729754716332/qj.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f"
+"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt;md5;c686a116d4f0c60b1dbf28dc0da27fe3",
+      "api": "csp_Kanke"
+    },
+ {
+      "key": "csp_Qiyou",
+      "name": "奇优",
+      "type": 3,
+      "api": "csp_Qiyou",
+"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt;md5;c686a116d4f0c60b1dbf28dc0da27fe3",
+      "ext": "http://www.dyxz2.com/"
+    },
+ {
+      "key": "csp_Nongm",
+      "name": "农民",
+      "type": 3,
+      "api": "csp_Nongm",
+"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt;md5;c686a116d4f0c60b1dbf28dc0da27fe3",
+      "ext": "https://wwgz.cn"
     },
 {
-      "key": "csp_Wwys",
-      "name": "汪汪",
+      "key": "天天影视",
+      "name": "天天",
       "type": 3,
-      "playerType": 1,
-      "changeable": 0,
-      "api": "csp_Wwys",
-      "ext": "https://www.wwgz.cn/"
-    },
-{
-      "key": "csp_LiteApple",
-      "name": "苹果",
-      "type": 3,
+      "api": "csp_AppTT",
       "searchable": 1,
-      "changeable": 1,
-      "api": "csp_LiteApple",
-      "playerType": 1,
-      "filterable": 1,
-      "ext": ""
+"jar": "https://lz.qaiu.top/lz/iiCeK2hicw6d;md5;7ee82ff7f6b078cf17f3475515bfa32f",
+      "quickSearch": 1,
+      "filterable": 1
     },
-{"key":"234PQ","name":"月亮影院","type":3,"api":"csp_XBPQ","searchable":1,"filterable":1,"quickSearch":1,
-"jar": "https://mirror.ghproxy.com/https://github.com/yangyi1975/jar/raw/main/hccx.jar",
-"ext":{
-"分类url":"https://www.zqzdzj.com/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-"分类":"电视剧$2#电影$1#综艺$3#动漫$4",
-"数组": "class=\"pack-ykpack\">&&pack-subtitle cor3 hidden",
-"简介":"友情提醒🔺勿信广告，避免受骗🔺+id=\"cText\">&&</a>",
-"线路数组":"channelname swiper-slide\">&&</a>",
-"线路标题":"💠+&nbsp;&&<[排序:腾讯>奇艺>优酷>芒果>搜狐]"}},
-{"key":"迅雷吧","name":"迅雷吧","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,
-"jar": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar","filterable":1},
 {
-      "key": "csp_Bttoo",
-      "name": "2Bt",
+      "key": "ky1080",
+      "name": "酷云",
       "type": 3,
-      "api": "csp_Bttwoo",
+"jar": "https://lz.qaiu.top/lz/iiCeK2hicw6d;md5;7ee82ff7f6b078cf17f3475515bfa32f",
+      "api": "http://47.99.102.252/js/openkuyun.js"
+    },
+{
+      "key": "快看影视",
+      "name": "快看",
+      "type": 3,
+      "api": "csp_Kuaikan",
       "searchable": 1,
       "quickSearch": 1,
-"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;9c19e5e073a7f0bd30fed7305fe1bfba",
-      "changeable": 0
+"jar": "https://lz.qaiu.top/lz/iiCeK2hicw6d;md5;7ee82ff7f6b078cf17f3475515bfa32f",
+      "filterable": 1
+    },
+ {
+      "key": "csp_河马",
+      "name": "河马",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+"jar": "https://lz.qaiu.top/lz/iiCeK2hicw6d;md5;7ee82ff7f6b078cf17f3475515bfa32f",
+      "ext": {
+        "分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
+        "分类": "电影&电视剧&动漫&综艺",
+        "分类值": "1&2&3&4"
+      }
+    },
+ {
+      "key": "萌米",
+      "name": "萌米",
+      "type": 3,
+      "api": "csp_AppTT",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
     }
 ],
 		"lives": [{
