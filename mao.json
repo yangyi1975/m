@@ -108,18 +108,15 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
- {
+{
       "key": "荐片",
-      "name": "荐片",
+      "name": "荐片[js]",
       "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": "1",
-      "api": "https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jp.js"
+      "api": "https://www.100km.top/lib/drpy2.min.js",
+      "ext": "https://www.100km.top/js/荐片.js",
+      "playerType": "1"
     },
-  {
+{
       "key": "可可",
       "name": "可可",
       "type": 3,
