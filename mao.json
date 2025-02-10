@@ -99,22 +99,62 @@
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
       "categories":["动作片","国产剧","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","欧美剧","日本剧","泰国剧","韩国剧","台湾剧","香港剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫"]
     }, 
-		{
-			"key": "csp_kuaikan",
-			"name": "快看(爬虫)",
-			"type": 3,
-			"api": "csp_Kuaikan",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-{
+   {
       "key": "荐片",
-      "name": "荐片[js]",
+      "name": "荐片",
       "type": 3,
-      "api": "https://www.100km.top/lib/drpy2.min.js",
-      "ext": "https://www.100km.top/js/荐片.js",
-      "playerType": "1"
+      "api": "csp_JPJ",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738772255159/f0206.txt;md5;77857b24f2d062790ba1e556078f1ea6",
+      "changeable": 0
+    },
+{
+      "key": "Wexnullname",
+      "name": "无名",
+      "type": 3,
+      "api": "csp_WexnullnameGuard",
+      "searchable": 1,
+      "changeable": 1,
+"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739022222434/wex.txt;md5;1fac1539ccd7e2a548a982915cde6e09",
+      "timeout": 120
+    },
+  {
+      "key": "WexjuhuangGuard",
+      "name": "剧荒",
+      "type": 3,
+      "api": "csp_WexjuhuangGuard",
+      "searchable": 1,
+"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739022222434/wex.txt;md5;1fac1539ccd7e2a548a982915cde6e09",
+      "changeable": 1
+    },
+  {
+      "key": "csp_Nmys",
+      "name": "农民秒播",
+      "type": 3,
+      "api": "csp_WexNmysGuard",
+      "searchable": 1,
+"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739022222434/wex.txt;md5;1fac1539ccd7e2a548a982915cde6e09",
+      "changeable": 1
+    },
+ {
+      "key": "WexBDys",
+      "name": "滴滴",
+      "type": 3,
+      "api": "csp_WexBDysGuard",
+      "searchable": 1,
+"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739022222434/wex.txt;md5;1fac1539ccd7e2a548a982915cde6e09",
+      "changeable": 1
+    },
+ {
+      "key": "Wexshandian",
+      "name": "闪电",
+      "type": 3,
+      "api": "csp_WexshandianGuard",
+      "searchable": 1,
+"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739022222434/wex.txt;md5;1fac1539ccd7e2a548a982915cde6e09",
+      "changeable": 1
     },
 {
       "key": "可可",
@@ -209,12 +249,17 @@
       "quickSearch": 1,
       "filterable": 1
     },
-{
-      "key": "ky1080",
-      "name": "酷云",
+  {
+      "key": "原创",
+      "name": "原创",
       "type": 3,
-"jar": "https://lz.qaiu.top/lz/iiCeK2hicw6d;md5;7ee82ff7f6b078cf17f3475515bfa32f",
-      "api": "http://47.99.102.252/js/openkuyun.js"
+      "api": "csp_YCyz",
+      "timeout": 15,
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738772255159/f0206.txt;md5;77857b24f2d062790ba1e556078f1ea6",
+      "changeable": 1
     },
 {
       "key": "快看影视",
@@ -226,22 +271,7 @@
 "jar": "https://lz.qaiu.top/lz/iiCeK2hicw6d;md5;7ee82ff7f6b078cf17f3475515bfa32f",
       "filterable": 1
     },
- {
-      "key": "csp_河马",
-      "name": "河马",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-"jar": "https://lz.qaiu.top/lz/iiCeK2hicw6d;md5;7ee82ff7f6b078cf17f3475515bfa32f",
-      "ext": {
-        "分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
-        "分类": "电影&电视剧&动漫&综艺",
-        "分类值": "1&2&3&4"
-      }
-    },
- {
+{
       "key": "萌米",
       "name": "萌米",
       "type": 3,
