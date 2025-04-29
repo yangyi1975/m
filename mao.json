@@ -89,6 +89,114 @@
 			]
 			},
  {
+		"key": "追剧",
+		"name": "追剧",
+		"type": 3,
+		"api": "csp_TTian",
+		"playerType": 1,
+"jar": "http://cdn.qiaoji8.com/fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716",
+		"ext": "7lj763gg0939791h1l2681i6g94li291li"
+	},
+{
+		"key": "剧评",
+		"name": "剧评┃App",
+		"type": 3,
+		"api": "csp_Jpys",
+		"playerType": 1,
+		"ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i",
+"jar": "http://cdn.qiaoji8.com/fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716"
+	},
+{
+		"key": "蝴蝶",
+		"name": "蝴蝶┃App",
+		"type": 3,
+		"api": "csp_Hudie",
+		"playerType": 2,
+		"ext": "7lj763gg402i794255648kj0hj539g9hl7k6jk52ji",
+"jar": "http://cdn.qiaoji8.com/fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716"
+	},
+{
+		"key": "AI3",
+		"name": "AI3┃仅搜索",
+		"type": 3,
+		"api": "csp_AI",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0,
+		"playerType": 2,
+		"ext": "7lj763gg0939795i067li482k704i2igg2k6980j95i631231j5203kgkg585g1k12j84jhl881j8396340hh487l3h30kk8l42l6851klhgjlk836ig69hj36k31i5ikhlki3gjli7k",
+"jar": "http://cdn.qiaoji8.com/fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716"
+	},
+{
+		"key": "巧技三",
+		"name": "巧技三┃QD4K",
+		"type": 3,
+		"api": "csp_AppYsV2",
+		"playerType": 2,
+		"ext": "7lj763gg0939795i0678i48hk312jji7g4k69h089ij36j71031154l2k91k151k138612h68842ji",
+"jar": "http://cdn.qiaoji8.com/fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716"
+	},
+{
+		"key": "AI2",
+		"name": "AI2┃仅搜索",
+		"type": 3,
+		"api": "csp_AI",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0,
+		"playerType": 2,
+"jar": "http://cdn.qiaoji8.com/fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716",
+		"ext": "7lj763gg0939795i067li482k704i2igg2k6980j95i631231j400hlgh707531k54864lh88k5h9781740hh287h9k035k8kg697852k5lj9kh276i575jk6kgk444kkkl8j1gggj370h768h473015hll64h265j82hg5667h79k93j4jk16l6215l327l71i922ilh6499j4k9h66297k5gjh4ii39j5107h837lh5104k477449hj1104h1i384l164k779h4595jlkh577l8i6570l23h4hg71hj92243h9076glj4k1k3il2404gl2i4i445ii0ji55578"
+	},
+{
+		"key": "雨滴",
+		"name": "雨滴┃App",
+		"type": 3,
+		"api": "csp_Xdai",
+		"playerType": 2,
+"jar": "http://cdn.qiaoji8.com/fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716",
+		"ext": "7lj763gg402i7942482k93i0h4458293llg1i959i3843j285i4l1glkli590j56559144kji902i5j36352hkjglhgk12l4g2392i46hik0i3gg698964lk37gl5512g9lj90gjg4677h69j046255h93lg416576hkl76l2kk8i0gj888k67h5700h0l6438ig74k8k148kk45j8242l375j9g4789j64023i313847k10g62i40i3ik00634127154957"
+	},
+{
+		"key": "juziys",
+		"name": "橘子┃App",
+		"type": 3,
+		"api": "csp_Muou",
+		"playerType": 2,
+"jar": "http://cdn.qiaoji8.com/fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716",
+		"ext": "7lj763gg0939795i0qiaoji678i481k40hi2i3ghlg840i98j9667000134jg7k591gjjk9j5lg53255g2i7gl2749l3j2h8g5"
+	},
+{
+		"key": "yizys",
+		"name": "驿站┃App",
+		"type": 3,
+		"api": "csp_Muou",
+		"playerType": 2,
+"jar": "http://cdn.qiaoji8.com/fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716",
+		"ext": "7lj763gg402i7942403h83i2h945858hljhji148i18k2837535112l2qiaojik9075l17028i49g192419i8g3245h3j1l9gi02h6k7732650h3h09jkg759j65hj39l50347k3gj97l4g12l7h6418h6k9j04l26i1glgj3631973hh280lkihjh "
+	},
+{
+		"key": "csp_sbb",
+		"name": "布布┃直连",
+		"type": 3,
+		"api": "csp_Czsapp",
+		"searchable": 1,
+		"playerType": 1,
+		"quickSearch": 1,
+"jar": "http://cdn.qiaoji8.com/fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716",
+		"filterable": 0,
+		"ext": "7lj763gg402i7942463j9j9jg3498k93lhggih54828g332i1j"
+	},
+{
+		"key": "星河",
+		"name": "星河┃App",
+		"type": 3,
+		"api": "csp_Xdai",
+		"playerType": 2,
+"jar": "http://cdn.qiaoji8.com/fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716",
+		"ext": "7lj763gg0939791954248jihg5529587lig9i654j59i326l5j5208hklg19161j139753h090539gig3g11h49gk3l21hl4hk637h53ghg6ikl2219j28lj76h8430kkkklj6hkl022272g8h5g69068hli583061k3l9373hk09hg9j79l31l43h06187l37j675lhkg57k511jk"
+	},
+{
       "key": "高清资源网",
       "name": "1080高清",
       "type": 1,
