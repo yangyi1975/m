@@ -116,18 +116,6 @@
 "jar": "http://cdn.qiaoji8.com/fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716"
 	},
 {
-		"key": "AI3",
-		"name": "AI3┃仅搜索",
-		"type": 3,
-		"api": "csp_AI",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0,
-		"playerType": 2,
-		"ext": "7lj763gg0939795i067li482k704i2igg2k6980j95i631231j5203kgkg585g1k12j84jhl881j8396340hh487l3h30kk8l42l6851klhgjlk836ig69hj36k31i5ikhlki3gjli7k",
-"jar": "http://cdn.qiaoji8.com/fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716"
-	},
-{
 		"key": "巧技三",
 		"name": "巧技三┃QD4K",
 		"type": 3,
@@ -135,18 +123,6 @@
 		"playerType": 2,
 		"ext": "7lj763gg0939795i0678i48hk312jji7g4k69h089ij36j71031154l2k91k151k138612h68842ji",
 "jar": "http://cdn.qiaoji8.com/fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716"
-	},
-{
-		"key": "AI2",
-		"name": "AI2┃仅搜索",
-		"type": 3,
-		"api": "csp_AI",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0,
-		"playerType": 2,
-"jar": "http://cdn.qiaoji8.com/fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716",
-		"ext": "7lj763gg0939795i067li482k704i2igg2k6980j95i631231j400hlgh707531k54864lh88k5h9781740hh287h9k035k8kg697852k5lj9kh276i575jk6kgk444kkkl8j1gggj370h768h473015hll64h265j82hg5667h79k93j4jk16l6215l327l71i922ilh6499j4k9h66297k5gjh4ii39j5107h837lh5104k477449hj1104h1i384l164k779h4595jlkh577l8i6570l23h4hg71hj92243h9076glj4k1k3il2404gl2i4i445ii0ji55578"
 	},
 {
 		"key": "雨滴",
