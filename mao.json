@@ -1,6 +1,6 @@
 {
 	 "spider": "http://47.120.41.246:8025/vip/jar/xiaomi.php",
-	//"spider": "https://git.acwing.com/yangyi1975/m/-/raw/master/jar/spider.jar",
+	//"spider": "https://codeberg.org/yangyi1975/m/raw/branch/master/jar/spider.jar",
 	//"spider": "",
 	"sites": [
 {
@@ -137,7 +137,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
- "jar": "https://git.acwing.com/yangyi1975/m/-/raw/master/jar/spider.jar",
+ "jar": "https://codeberg.org/yangyi1975/m/raw/branch/master/jar/spider.jar",
             "ext": {
                 "url": "http://v.rbotv.cn"
             }
@@ -149,7 +149,7 @@
             "api": "csp_AppRJ",
             "searchable": 1,
             "quickSearch": 1,
- "jar": "https://git.acwing.com/yangyi1975/m/-/raw/master/jar/spider.jar",
+ "jar": "https://codeberg.org/yangyi1975/m/raw/branch/master/jar/spider.jar",
             "filterable": 0,
             "ext": {
                 "url": "http://v.lkuys.cn"
@@ -160,7 +160,7 @@
             "name": "和友｜APP",
             "type": 3,
             "api": "csp_AppSy",
- "jar": "https://git.acwing.com/yangyi1975/m/-/raw/master/jar/spider.jar",
+ "jar": "https://codeberg.org/yangyi1975/m/raw/branch/master/jar/spider.jar",
             "ext": {
                 "url": "",
                 "site": "http://qcb.sxtzg.com/api.txt",
@@ -175,7 +175,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
- "jar": "https://git.acwing.com/yangyi1975/m/-/raw/master/jar/spider.jar",
+ "jar": "https://codeberg.org/yangyi1975/m/raw/branch/master/jar/spider.jar",
             "ext": {
                 "url": "https://dy.58ys.vip",
                 "site": "",
@@ -191,7 +191,7 @@
             "name": "斗量丨APP",
             "type": 3,
             "quickSearch": 1,
- "jar": "https://git.acwing.com/yangyi1975/m/-/raw/master/jar/spider.jar",
+ "jar": "https://codeberg.org/yangyi1975/m/raw/branch/master/jar/spider.jar",
             "api": "csp_AppGet",
             "ext": {
                 "url": "",
@@ -209,7 +209,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
- "jar": "https://git.acwing.com/yangyi1975/m/-/raw/master/jar/spider.jar",
+ "jar": "https://codeberg.org/yangyi1975/m/raw/branch/master/jar/spider.jar",
             "ext": {
                 "url": "https://www.pjb523.sbs",
                 "site": "",
@@ -226,7 +226,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
- "jar": "https://git.acwing.com/yangyi1975/m/-/raw/master/jar/spider.jar",
+ "jar": "https://codeberg.org/yangyi1975/m/raw/branch/master/jar/spider.jar",
             "ext": {
                 "url": "",
                 "site": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
@@ -240,7 +240,7 @@
 {
             "key": "三六零",
             "name": "三六零｜视频",
- "jar": "https://git.acwing.com/yangyi1975/m/-/raw/master/jar/spider.jar",
+ "jar": "https://codeberg.org/yangyi1975/m/raw/branch/master/jar/spider.jar",
             "type": 3,
             "api": "csp_SP360"
         },
@@ -249,17 +249,17 @@
             "name": "骚火｜影视",
             "type": 3,
             "api": "csp_SaoHuo",
-"jar": "https://git.acwing.com/yangyi1975/m/-/raw/master/jar/spider.jar",
+"jar": "https://codeberg.org/yangyi1975/m/raw/branch/master/jar/spider.jar",
             "playerType": 2,
             "ext": "https://shdy5.us"
         },
 {
             "key": "麦田影视",
             "name": "麦田｜影视",
-"jar": "https://git.acwing.com/yangyi1975/m/-/raw/master/jar/spider.jar",
+"jar": "https://codeberg.org/yangyi1975/m/raw/branch/master/jar/spider.jar",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://git.acwing.com/yangyi1975/m/-/raw/master/xbpb/%E9%BA%A6%E7%94%B0%E5%BD%B1%E8%A7%86.json"
+            "ext": "https://codeberg.org/yangyi1975/m/raw/branch/master/xbpb/%E9%BA%A6%E7%94%B0%E5%BD%B1%E8%A7%86.json"
         },
 {
       "key": "苹果影视",
